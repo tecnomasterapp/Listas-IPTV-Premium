@@ -1,1335 +1,1335 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="2" group-title="Lista 05" ,.OLíMPICOS 1
+#EXTINF:-1 tvg-id="2" group-title="Lista 05" ,.OLíMPICOS 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55147
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="3" group-title="Lista 05" ,.OLíMPICOS 2
+#EXTINF:-1 tvg-id="3" group-title="Lista 05" ,.OLíMPICOS 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55187
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="4" group-title="Lista 05" ,.OLíMPICOS 3
+#EXTINF:-1 tvg-id="4" group-title="Lista 05" ,.OLíMPICOS 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55149
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="5" group-title="Lista 05" ,.OLíMPICOS 4
+#EXTINF:-1 tvg-id="5" group-title="Lista 05" ,.OLíMPICOS 4
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55151
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="6" group-title="Lista 05" ,0 HD
+#EXTINF:-1 tvg-id="6" group-title="Lista 05" ,0 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66156
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="7" group-title="Lista 05" ,24 HORAS
+#EXTINF:-1 tvg-id="7" group-title="Lista 05" ,24 HORAS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66158
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="8" group-title="Lista 05" ,A3 SERIES HD
+#EXTINF:-1 tvg-id="8" group-title="Lista 05" ,A3 SERIES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66159
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="9" group-title="Lista 05" ,A3CINE SD
+#EXTINF:-1 tvg-id="9" group-title="Lista 05" ,A3CINE SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67966
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="10" group-title="Lista 05" ,A3CINE
+#EXTINF:-1 tvg-id="10" group-title="Lista 05" ,A3CINE
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="11" group-title="Lista 05" ,A3SERIES
+#EXTINF:-1 tvg-id="11" group-title="Lista 05" ,A3SERIES
 http://91.126.141.13:1935/live/101/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="12" group-title="Lista 05" ,AE MUNDO HD
+#EXTINF:-1 tvg-id="12" group-title="Lista 05" ,AE MUNDO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68201
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="13" group-title="Lista 05" ,AE MUNDO
+#EXTINF:-1 tvg-id="13" group-title="Lista 05" ,AE MUNDO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="14" group-title="Lista 05" ,AFIZZIONADOS
+#EXTINF:-1 tvg-id="14" group-title="Lista 05" ,AFIZZIONADOS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55148
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="15" group-title="Lista 05" ,ALF
+#EXTINF:-1 tvg-id="15" group-title="Lista 05" ,ALF
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55157
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="16" group-title="Lista 05" ,ALJAZEERA HD
+#EXTINF:-1 tvg-id="16" group-title="Lista 05" ,ALJAZEERA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68305
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="17" group-title="Lista 05" ,AMC FULL HD
+#EXTINF:-1 tvg-id="17" group-title="Lista 05" ,AMC FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68140
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="18" group-title="Lista 05" ,AMC LATINO
+#EXTINF:-1 tvg-id="18" group-title="Lista 05" ,AMC LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43973
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="19" group-title="Lista 05" ,AMC
+#EXTINF:-1 tvg-id="19" group-title="Lista 05" ,AMC
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56277
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="20" group-title="Lista 05" ,ANDALUCIA TV
+#EXTINF:-1 tvg-id="20" group-title="Lista 05" ,ANDALUCIA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="21" group-title="Lista 05" ,ANIMAL PLANET FULL HD
+#EXTINF:-1 tvg-id="21" group-title="Lista 05" ,ANIMAL PLANET FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68141
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="22" group-title="Lista 05" ,ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="22" group-title="Lista 05" ,ANIMAL PLANET HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68263
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="23" group-title="Lista 05" ,ANIMAL PLANET
+#EXTINF:-1 tvg-id="23" group-title="Lista 05" ,ANIMAL PLANET
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56214
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="24" group-title="Lista 05" ,ANTENA 3 HD
+#EXTINF:-1 tvg-id="24" group-title="Lista 05" ,ANTENA 3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66161
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="25" group-title="Lista 05" ,ANTENA 3 HD
+#EXTINF:-1 tvg-id="25" group-title="Lista 05" ,ANTENA 3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68250
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="26" group-title="Lista 05" ,ANTENA 3 SD
+#EXTINF:-1 tvg-id="26" group-title="Lista 05" ,ANTENA 3 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67967
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="27" group-title="Lista 05" ,ANTENA 3
+#EXTINF:-1 tvg-id="27" group-title="Lista 05" ,ANTENA 3
 http://91.126.141.13:1935/live/11/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="28" group-title="Lista 05" ,ANTENA 3
+#EXTINF:-1 tvg-id="28" group-title="Lista 05" ,ANTENA 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65845
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="29" group-title="Lista 05" ,ANTIESTRES
+#EXTINF:-1 tvg-id="29" group-title="Lista 05" ,ANTIESTRES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55156
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="30" group-title="Lista 05" ,ARAGON TV HD
+#EXTINF:-1 tvg-id="30" group-title="Lista 05" ,ARAGON TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="31" group-title="Lista 05" ,ARIRANG HD
+#EXTINF:-1 tvg-id="31" group-title="Lista 05" ,ARIRANG HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68202
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="32" group-title="Lista 05" ,ATRESERIES HD
+#EXTINF:-1 tvg-id="32" group-title="Lista 05" ,ATRESERIES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68203
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="33" group-title="Lista 05" ,ATRESERIES
+#EXTINF:-1 tvg-id="33" group-title="Lista 05" ,ATRESERIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56227
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="34" group-title="Lista 05" ,AXN HD
+#EXTINF:-1 tvg-id="34" group-title="Lista 05" ,AXN HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66163
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="35" group-title="Lista 05" ,AXN HD
+#EXTINF:-1 tvg-id="35" group-title="Lista 05" ,AXN HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68204
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="36" group-title="Lista 05" ,AXN SD
+#EXTINF:-1 tvg-id="36" group-title="Lista 05" ,AXN SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67968
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="37" group-title="Lista 05" ,AXN WHITE HD
+#EXTINF:-1 tvg-id="37" group-title="Lista 05" ,AXN WHITE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66164
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="38" group-title="Lista 05" ,AXN WHITE SD
+#EXTINF:-1 tvg-id="38" group-title="Lista 05" ,AXN WHITE SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67969
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="39" group-title="Lista 05" ,AXN
+#EXTINF:-1 tvg-id="39" group-title="Lista 05" ,AXN
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56229
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="40" group-title="Lista 05" ,AZ CORAZON
+#EXTINF:-1 tvg-id="40" group-title="Lista 05" ,AZ CORAZON
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65846
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="41" group-title="Lista 05" ,BABY TV HD
+#EXTINF:-1 tvg-id="41" group-title="Lista 05" ,BABY TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68315
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="42" group-title="Lista 05" ,BANDAMAX
+#EXTINF:-1 tvg-id="42" group-title="Lista 05" ,BANDAMAX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44190
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="43" group-title="Lista 05" ,BAND INTERNACIONAL HD
+#EXTINF:-1 tvg-id="43" group-title="Lista 05" ,BAND INTERNACIONAL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68306
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="44" group-title="Lista 05" ,BARCA TV HD
+#EXTINF:-1 tvg-id="44" group-title="Lista 05" ,BARCA TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66165
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="45" group-title="Lista 05" ,BBC WORLD HD
+#EXTINF:-1 tvg-id="45" group-title="Lista 05" ,BBC WORLD HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68264
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="46" group-title="Lista 05" ,BEIN LA LIGA 123 HD
+#EXTINF:-1 tvg-id="46" group-title="Lista 05" ,BEIN LA LIGA 123 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66166
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="47" group-title="Lista 05" ,BEIN SPORT 4 ESP
+#EXTINF:-1 tvg-id="47" group-title="Lista 05" ,BEIN SPORT 4 ESP
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37219
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="48" group-title="Lista 05" ,BEIN SPORT 5 ESP
+#EXTINF:-1 tvg-id="48" group-title="Lista 05" ,BEIN SPORT 5 ESP
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37220
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="49" group-title="Lista 05" ,BEIN SPORT 6 ESP
+#EXTINF:-1 tvg-id="49" group-title="Lista 05" ,BEIN SPORT 6 ESP
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="50" group-title="Lista 05" ,BEIN SPORT 7 ESP
+#EXTINF:-1 tvg-id="50" group-title="Lista 05" ,BEIN SPORT 7 ESP
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37222
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="51" group-title="Lista 05" ,BEIN SPORT 8 ESP
+#EXTINF:-1 tvg-id="51" group-title="Lista 05" ,BEIN SPORT 8 ESP
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37223
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="52" group-title="Lista 05" ,BEIN SPORT EN ESPAñOL OP2
+#EXTINF:-1 tvg-id="52" group-title="Lista 05" ,BEIN SPORT EN ESPAñOL OP2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="53" group-title="Lista 05" ,BEIN SPORT EN ESPAñOL
+#EXTINF:-1 tvg-id="53" group-title="Lista 05" ,BEIN SPORT EN ESPAñOL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55310
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="54" group-title="Lista 05" ,BEIN SPORTS SD
+#EXTINF:-1 tvg-id="54" group-title="Lista 05" ,BEIN SPORTS SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67971
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="55" group-title="Lista 05" ,BE MAD SD
+#EXTINF:-1 tvg-id="55" group-title="Lista 05" ,BE MAD SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67970
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="56" group-title="Lista 05" ,BLAZE HD
+#EXTINF:-1 tvg-id="56" group-title="Lista 05" ,BLAZE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66167
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="57" group-title="Lista 05" ,BLOOMBERG HD
+#EXTINF:-1 tvg-id="57" group-title="Lista 05" ,BLOOMBERG HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68307
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="58" group-title="Lista 05" ,BLOOMBERG USA
+#EXTINF:-1 tvg-id="58" group-title="Lista 05" ,BLOOMBERG USA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?27257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="59" group-title="Lista 05" ,BOOMERANG HD
+#EXTINF:-1 tvg-id="59" group-title="Lista 05" ,BOOMERANG HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68316
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="60" group-title="Lista 05" ,BOOMERANG
+#EXTINF:-1 tvg-id="60" group-title="Lista 05" ,BOOMERANG
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56202
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="61" group-title="Lista 05" ,CABALLEROS DEL ZODIACO
+#EXTINF:-1 tvg-id="61" group-title="Lista 05" ,CABALLEROS DEL ZODIACO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55164
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="62" group-title="Lista 05" ,CALLE 13 SD
+#EXTINF:-1 tvg-id="62" group-title="Lista 05" ,CALLE 13 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67972
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="63" group-title="Lista 05" ,CANAL COCINA
+#EXTINF:-1 tvg-id="63" group-title="Lista 05" ,CANAL COCINA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66168
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="64" group-title="Lista 05" ,CANAL ORBE 21 HD
+#EXTINF:-1 tvg-id="64" group-title="Lista 05" ,CANAL ORBE 21 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66169
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="65" group-title="Lista 05" ,CANAL SONY
+#EXTINF:-1 tvg-id="65" group-title="Lista 05" ,CANAL SONY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37309
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="66" group-title="Lista 05" ,CANAL TOROS TV
+#EXTINF:-1 tvg-id="66" group-title="Lista 05" ,CANAL TOROS TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66170
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="67" group-title="Lista 05" ,CAPITAL TV
+#EXTINF:-1 tvg-id="67" group-title="Lista 05" ,CAPITAL TV
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93851/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="68" group-title="Lista 05" ,CARACOL INTERNACIONAL
+#EXTINF:-1 tvg-id="68" group-title="Lista 05" ,CARACOL INTERNACIONAL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65847
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="69" group-title="Lista 05" ,CARACOL
+#EXTINF:-1 tvg-id="69" group-title="Lista 05" ,CARACOL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65848
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="70" group-title="Lista 05" ,CARTELERA PREMIER
+#EXTINF:-1 tvg-id="70" group-title="Lista 05" ,CARTELERA PREMIER
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67511
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="71" group-title="Lista 05" ,CARTOON NETWORK HD
+#EXTINF:-1 tvg-id="71" group-title="Lista 05" ,CARTOON NETWORK HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68317
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="72" group-title="Lista 05" ,CARTOON NETWORK
+#EXTINF:-1 tvg-id="72" group-title="Lista 05" ,CARTOON NETWORK
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56203
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="73" group-title="Lista 05" ,CAZA Y PESCA SD
+#EXTINF:-1 tvg-id="73" group-title="Lista 05" ,CAZA Y PESCA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67973
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="74" group-title="Lista 05" ,CBSN NEWS
+#EXTINF:-1 tvg-id="74" group-title="Lista 05" ,CBSN NEWS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?27260
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="75" group-title="Lista 05" ,CINCO
+#EXTINF:-1 tvg-id="75" group-title="Lista 05" ,CINCO
 http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="76" group-title="Lista 05" ,CINECANAL FULL HD
+#EXTINF:-1 tvg-id="76" group-title="Lista 05" ,CINECANAL FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68142
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="77" group-title="Lista 05" ,CINECANAL
+#EXTINF:-1 tvg-id="77" group-title="Lista 05" ,CINECANAL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43974
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="78" group-title="Lista 05" ,CINECANAL
+#EXTINF:-1 tvg-id="78" group-title="Lista 05" ,CINECANAL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56280
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="79" group-title="Lista 05" ,CINELATINO
+#EXTINF:-1 tvg-id="79" group-title="Lista 05" ,CINELATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43970
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="80" group-title="Lista 05" ,CINEMA DINAMITA
+#EXTINF:-1 tvg-id="80" group-title="Lista 05" ,CINEMA DINAMITA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43975
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="81" group-title="Lista 05" ,CINEMAX 1
+#EXTINF:-1 tvg-id="81" group-title="Lista 05" ,CINEMAX 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43976
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="82" group-title="Lista 05" ,CINEMAX 2
+#EXTINF:-1 tvg-id="82" group-title="Lista 05" ,CINEMAX 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43977
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="83" group-title="Lista 05" ,CINEMAX EAST HD 1080P
+#EXTINF:-1 tvg-id="83" group-title="Lista 05" ,CINEMAX EAST HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67512
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="84" group-title="Lista 05" ,CINEMAX HD 1080I
+#EXTINF:-1 tvg-id="84" group-title="Lista 05" ,CINEMAX HD 1080I
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67513
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="85" group-title="Lista 05" ,CINEMAX
+#EXTINF:-1 tvg-id="85" group-title="Lista 05" ,CINEMAX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56282
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="86" group-title="Lista 05" ,CI SD
+#EXTINF:-1 tvg-id="86" group-title="Lista 05" ,CI SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67974
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="87" group-title="Lista 05" ,CNC MEDELLÍN M
+#EXTINF:-1 tvg-id="87" group-title="Lista 05" ,CNC MEDELLÍN M
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="88" group-title="Lista 05" ,CNN EN ESPAñOL HD
+#EXTINF:-1 tvg-id="88" group-title="Lista 05" ,CNN EN ESPAñOL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68308
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="89" group-title="Lista 05" ,CNN INTERNACIONAL HD
+#EXTINF:-1 tvg-id="89" group-title="Lista 05" ,CNN INTERNACIONAL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68309
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="90" group-title="Lista 05" ,COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="90" group-title="Lista 05" ,COMEDY CENTRAL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68205
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="91" group-title="Lista 05" ,COMEDY CENTRAL SD
+#EXTINF:-1 tvg-id="91" group-title="Lista 05" ,COMEDY CENTRAL SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67975
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="92" group-title="Lista 05" ,COMEDY CENTRAL
+#EXTINF:-1 tvg-id="92" group-title="Lista 05" ,COMEDY CENTRAL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56230
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="93" group-title="Lista 05" ,COMEDY CENTRAL
+#EXTINF:-1 tvg-id="93" group-title="Lista 05" ,COMEDY CENTRAL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66171
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="94" group-title="Lista 05" ,CRIME & INVESTIGATION HD
+#EXTINF:-1 tvg-id="94" group-title="Lista 05" ,CRIME & INVESTIGATION HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66172
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="95" group-title="Lista 05" ,CUATRO SD
+#EXTINF:-1 tvg-id="95" group-title="Lista 05" ,CUATRO SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67976
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="96" group-title="Lista 05" ,CUATRO
+#EXTINF:-1 tvg-id="96" group-title="Lista 05" ,CUATRO
 http://91.126.141.13:1935/live/51/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="97" group-title="Lista 05" ,DARK SD
+#EXTINF:-1 tvg-id="97" group-title="Lista 05" ,DARK SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67977
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="98" group-title="Lista 05" ,DE PELICULA MX
+#EXTINF:-1 tvg-id="98" group-title="Lista 05" ,DE PELICULA MX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43966
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="99" group-title="Lista 05" ,DEPORTV HD
+#EXTINF:-1 tvg-id="99" group-title="Lista 05" ,DEPORTV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68290
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="100" group-title="Lista 05" ,DEUTSCHE WELLE HD
+#EXTINF:-1 tvg-id="100" group-title="Lista 05" ,DEUTSCHE WELLE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68310
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="101" group-title="Lista 05" ,DHE FULL HD
+#EXTINF:-1 tvg-id="101" group-title="Lista 05" ,DHE FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68143
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="102" group-title="Lista 05" ,DHE
+#EXTINF:-1 tvg-id="102" group-title="Lista 05" ,DHE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56283
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="103" group-title="Lista 05" ,DISCOVERY CHANNEL FULL HD
+#EXTINF:-1 tvg-id="103" group-title="Lista 05" ,DISCOVERY CHANNEL FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68144
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="104" group-title="Lista 05" ,DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="104" group-title="Lista 05" ,DISCOVERY CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68265
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="105" group-title="Lista 05" ,DISCOVERY CHANNEL SD
+#EXTINF:-1 tvg-id="105" group-title="Lista 05" ,DISCOVERY CHANNEL SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67978
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="106" group-title="Lista 05" ,DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="106" group-title="Lista 05" ,DISCOVERY CHANNEL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56215
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="107" group-title="Lista 05" ,DISCOVERY CIVILIZATION HD
+#EXTINF:-1 tvg-id="107" group-title="Lista 05" ,DISCOVERY CIVILIZATION HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68266
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="108" group-title="Lista 05" ,DISCOVERY HOME AND GARDEN HD
+#EXTINF:-1 tvg-id="108" group-title="Lista 05" ,DISCOVERY HOME AND GARDEN HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68267
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="109" group-title="Lista 05" ,DISCOVERY HOME AND HEALTH HD
+#EXTINF:-1 tvg-id="109" group-title="Lista 05" ,DISCOVERY HOME AND HEALTH HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68268
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="110" group-title="Lista 05" ,DISCOVERY HOME AND HEALTH
+#EXTINF:-1 tvg-id="110" group-title="Lista 05" ,DISCOVERY HOME AND HEALTH
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56216
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="111" group-title="Lista 05" ,DISCOVERY INVESTIGATION HD
+#EXTINF:-1 tvg-id="111" group-title="Lista 05" ,DISCOVERY INVESTIGATION HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68269
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="112" group-title="Lista 05" ,DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-id="112" group-title="Lista 05" ,DISCOVERY INVESTIGATION
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56217
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="113" group-title="Lista 05" ,DISCOVERY KIDS HD
+#EXTINF:-1 tvg-id="113" group-title="Lista 05" ,DISCOVERY KIDS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68318
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="114" group-title="Lista 05" ,DISCOVERY KIDS
+#EXTINF:-1 tvg-id="114" group-title="Lista 05" ,DISCOVERY KIDS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56204
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="115" group-title="Lista 05" ,DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="115" group-title="Lista 05" ,DISCOVERY SCIENCE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68270
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="116" group-title="Lista 05" ,DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="116" group-title="Lista 05" ,DISCOVERY SCIENCE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="117" group-title="Lista 05" ,DISCOVERY THEATER HD
+#EXTINF:-1 tvg-id="117" group-title="Lista 05" ,DISCOVERY THEATER HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68271
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="118" group-title="Lista 05" ,DISCOVERY TLC HD
+#EXTINF:-1 tvg-id="118" group-title="Lista 05" ,DISCOVERY TLC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68272
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="119" group-title="Lista 05" ,DISCOVERY TLC
+#EXTINF:-1 tvg-id="119" group-title="Lista 05" ,DISCOVERY TLC
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56219
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="120" group-title="Lista 05" ,DISCOVERY TURBO HD
+#EXTINF:-1 tvg-id="120" group-title="Lista 05" ,DISCOVERY TURBO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68273
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="121" group-title="Lista 05" ,DISCOVERY TURBO
+#EXTINF:-1 tvg-id="121" group-title="Lista 05" ,DISCOVERY TURBO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56220
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="122" group-title="Lista 05" ,DISCOVERY WORLD HD
+#EXTINF:-1 tvg-id="122" group-title="Lista 05" ,DISCOVERY WORLD HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68274
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="123" group-title="Lista 05" ,DISCOVERY WORLD
+#EXTINF:-1 tvg-id="123" group-title="Lista 05" ,DISCOVERY WORLD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="124" group-title="Lista 05" ,DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="124" group-title="Lista 05" ,DISNEY CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68319
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="125" group-title="Lista 05" ,DISNEY CHANNEL
+#EXTINF:-1 tvg-id="125" group-title="Lista 05" ,DISNEY CHANNEL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56205
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="126" group-title="Lista 05" ,DISNEY JUNIOR HD
+#EXTINF:-1 tvg-id="126" group-title="Lista 05" ,DISNEY JUNIOR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68320
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="127" group-title="Lista 05" ,DISNEY JUNIOR
+#EXTINF:-1 tvg-id="127" group-title="Lista 05" ,DISNEY JUNIOR
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="128" group-title="Lista 05" ,DISNEY XD HD
+#EXTINF:-1 tvg-id="128" group-title="Lista 05" ,DISNEY XD HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68321
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="129" group-title="Lista 05" ,DISNEY XD
+#EXTINF:-1 tvg-id="129" group-title="Lista 05" ,DISNEY XD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56207
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="130" group-title="Lista 05" ,DIVINITY SD
+#EXTINF:-1 tvg-id="130" group-title="Lista 05" ,DIVINITY SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67979
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="131" group-title="Lista 05" ,DIVINITY
+#EXTINF:-1 tvg-id="131" group-title="Lista 05" ,DIVINITY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66173
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="132" group-title="Lista 05" ,DMAX HD
+#EXTINF:-1 tvg-id="132" group-title="Lista 05" ,DMAX HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66174
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="133" group-title="Lista 05" ,DOS
+#EXTINF:-1 tvg-id="133" group-title="Lista 05" ,DOS
 http://91.126.141.13:1935/live/81/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="134" group-title="Lista 05" ,DW (ESPAÑOL)
+#EXTINF:-1 tvg-id="134" group-title="Lista 05" ,DW (ESPAÑOL)
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/93853/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="135" group-title="Lista 05" ,DW ENTRETENIMIENTO
+#EXTINF:-1 tvg-id="135" group-title="Lista 05" ,DW ENTRETENIMIENTO
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="136" group-title="Lista 05" ,E! HD
+#EXTINF:-1 tvg-id="136" group-title="Lista 05" ,E! HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68252
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="137" group-title="Lista 05" ,EL GOURMET HD
+#EXTINF:-1 tvg-id="137" group-title="Lista 05" ,EL GOURMET HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68275
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="138" group-title="Lista 05" ,ENERGY SD
+#EXTINF:-1 tvg-id="138" group-title="Lista 05" ,ENERGY SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67980
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="139" group-title="Lista 05" ,ENERGY
+#EXTINF:-1 tvg-id="139" group-title="Lista 05" ,ENERGY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66175
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="140" group-title="Lista 05" ,EP VIVO
+#EXTINF:-1 tvg-id="140" group-title="Lista 05" ,EP VIVO
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/534/12?f=.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="141" group-title="Lista 05" ,ES: 7RM FHD
+#EXTINF:-1 tvg-id="141" group-title="Lista 05" ,ES: 7RM FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36384
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="142" group-title="Lista 05" ,ES: 8TV MADRID
+#EXTINF:-1 tvg-id="142" group-title="Lista 05" ,ES: 8TV MADRID
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36385
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="143" group-title="Lista 05" ,ES: 24 HORAS
+#EXTINF:-1 tvg-id="143" group-title="Lista 05" ,ES: 24 HORAS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36383
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="144" group-title="Lista 05" ,ES: A&E
+#EXTINF:-1 tvg-id="144" group-title="Lista 05" ,ES: A&E
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36386
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="145" group-title="Lista 05" ,ES: A3SERIES HD
+#EXTINF:-1 tvg-id="145" group-title="Lista 05" ,ES: A3SERIES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36388
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="146" group-title="Lista 05" ,ES: AMC HD
+#EXTINF:-1 tvg-id="146" group-title="Lista 05" ,ES: AMC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36389
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="147" group-title="Lista 05" ,ES: ANDALUCIA TV
+#EXTINF:-1 tvg-id="147" group-title="Lista 05" ,ES: ANDALUCIA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36390
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="148" group-title="Lista 05" ,ES: ANTENA3 HD
+#EXTINF:-1 tvg-id="148" group-title="Lista 05" ,ES: ANTENA3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36391
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="149" group-title="Lista 05" ,ES: ANTENA3
+#EXTINF:-1 tvg-id="149" group-title="Lista 05" ,ES: ANTENA3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36392
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="150" group-title="Lista 05" ,ES: ARAGON
+#EXTINF:-1 tvg-id="150" group-title="Lista 05" ,ES: ARAGON
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36393
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="151" group-title="Lista 05" ,ES: AXN HD
+#EXTINF:-1 tvg-id="151" group-title="Lista 05" ,ES: AXN HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36394
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="152" group-title="Lista 05" ,ES: AXN WHITE HD
+#EXTINF:-1 tvg-id="152" group-title="Lista 05" ,ES: AXN WHITE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36395
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="153" group-title="Lista 05" ,ES: BABY TV
+#EXTINF:-1 tvg-id="153" group-title="Lista 05" ,ES: BABY TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36396
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="154" group-title="Lista 05" ,ES: BARCA TV
+#EXTINF:-1 tvg-id="154" group-title="Lista 05" ,ES: BARCA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36397
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="155" group-title="Lista 05" ,ES: BE MAD TV HD
+#EXTINF:-1 tvg-id="155" group-title="Lista 05" ,ES: BE MAD TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36398
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="156" group-title="Lista 05" ,ES: BLAZE
+#EXTINF:-1 tvg-id="156" group-title="Lista 05" ,ES: BLAZE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36399
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="157" group-title="Lista 05" ,ES: BOING
+#EXTINF:-1 tvg-id="157" group-title="Lista 05" ,ES: BOING
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36400
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="158" group-title="Lista 05" ,ES: BOM CINE HD
+#EXTINF:-1 tvg-id="158" group-title="Lista 05" ,ES: BOM CINE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36401
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="159" group-title="Lista 05" ,ES: C&I
+#EXTINF:-1 tvg-id="159" group-title="Lista 05" ,ES: C&I
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36402
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="160" group-title="Lista 05" ,ES: CADENA ELITE
+#EXTINF:-1 tvg-id="160" group-title="Lista 05" ,ES: CADENA ELITE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36403
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="161" group-title="Lista 05" ,ES: CALLE 13 HD
+#EXTINF:-1 tvg-id="161" group-title="Lista 05" ,ES: CALLE 13 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36404
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="162" group-title="Lista 05" ,ES: CALLE 13
+#EXTINF:-1 tvg-id="162" group-title="Lista 05" ,ES: CALLE 13
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36405
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="163" group-title="Lista 05" ,ES: CANAL COCCINA
+#EXTINF:-1 tvg-id="163" group-title="Lista 05" ,ES: CANAL COCCINA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36406
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="164" group-title="Lista 05" ,ES: CANAL DECASA
+#EXTINF:-1 tvg-id="164" group-title="Lista 05" ,ES: CANAL DECASA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36407
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="165" group-title="Lista 05" ,ES: CANAL MALGA
+#EXTINF:-1 tvg-id="165" group-title="Lista 05" ,ES: CANAL MALGA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36408
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="166" group-title="Lista 05" ,ES: CANAL SUR FHD
+#EXTINF:-1 tvg-id="166" group-title="Lista 05" ,ES: CANAL SUR FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36409
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="167" group-title="Lista 05" ,ES: CAZA Y PESCA HD
+#EXTINF:-1 tvg-id="167" group-title="Lista 05" ,ES: CAZA Y PESCA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36410
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="168" group-title="Lista 05" ,ES: CLAN TVE
+#EXTINF:-1 tvg-id="168" group-title="Lista 05" ,ES: CLAN TVE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36411
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="169" group-title="Lista 05" ,ES: CLASSICA
+#EXTINF:-1 tvg-id="169" group-title="Lista 05" ,ES: CLASSICA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36412
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="170" group-title="Lista 05" ,ES: CMM TV
+#EXTINF:-1 tvg-id="170" group-title="Lista 05" ,ES: CMM TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36413
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="171" group-title="Lista 05" ,ES: COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="171" group-title="Lista 05" ,ES: COMEDY CENTRAL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36414
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="172" group-title="Lista 05" ,ES: COSMO HD
+#EXTINF:-1 tvg-id="172" group-title="Lista 05" ,ES: COSMO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36415
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="173" group-title="Lista 05" ,ES: CUATRO FHD
+#EXTINF:-1 tvg-id="173" group-title="Lista 05" ,ES: CUATRO FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36416
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="174" group-title="Lista 05" ,ES: CUATRO HD
+#EXTINF:-1 tvg-id="174" group-title="Lista 05" ,ES: CUATRO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36417
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="175" group-title="Lista 05" ,ES: DCINE
+#EXTINF:-1 tvg-id="175" group-title="Lista 05" ,ES: DCINE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36418
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="176" group-title="Lista 05" ,ES: DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="176" group-title="Lista 05" ,ES: DISCOVERY CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36419
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="177" group-title="Lista 05" ,ES: DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="177" group-title="Lista 05" ,ES: DISNEY CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36420
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="178" group-title="Lista 05" ,ES: DISNEY JUNIOR
+#EXTINF:-1 tvg-id="178" group-title="Lista 05" ,ES: DISNEY JUNIOR
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36421
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="179" group-title="Lista 05" ,ES: DISNEY XD
+#EXTINF:-1 tvg-id="179" group-title="Lista 05" ,ES: DISNEY XD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36422
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="180" group-title="Lista 05" ,ES: DIVINITY
+#EXTINF:-1 tvg-id="180" group-title="Lista 05" ,ES: DIVINITY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36423
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="181" group-title="Lista 05" ,ES: DKISS
+#EXTINF:-1 tvg-id="181" group-title="Lista 05" ,ES: DKISS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36424
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="182" group-title="Lista 05" ,ES: DMAX
+#EXTINF:-1 tvg-id="182" group-title="Lista 05" ,ES: DMAX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36425
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="183" group-title="Lista 05" ,ES: DW
+#EXTINF:-1 tvg-id="183" group-title="Lista 05" ,ES: DW
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36426
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="184" group-title="Lista 05" ,ES: ENERGY
+#EXTINF:-1 tvg-id="184" group-title="Lista 05" ,ES: ENERGY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36427
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="185" group-title="Lista 05" ,ES: EUROSPORT 1HD
+#EXTINF:-1 tvg-id="185" group-title="Lista 05" ,ES: EUROSPORT 1HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36428
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="186" group-title="Lista 05" ,ES: EUROSPORT 2
+#EXTINF:-1 tvg-id="186" group-title="Lista 05" ,ES: EUROSPORT 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36429
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="187" group-title="Lista 05" ,ES: EXTRAMADURA TV
+#EXTINF:-1 tvg-id="187" group-title="Lista 05" ,ES: EXTRAMADURA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36430
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="188" group-title="Lista 05" ,ES: FDF
+#EXTINF:-1 tvg-id="188" group-title="Lista 05" ,ES: FDF
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36431
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="189" group-title="Lista 05" ,ES: FOX HD
+#EXTINF:-1 tvg-id="189" group-title="Lista 05" ,ES: FOX HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36432
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="190" group-title="Lista 05" ,ES: FOX LIFE HD
+#EXTINF:-1 tvg-id="190" group-title="Lista 05" ,ES: FOX LIFE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36433
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="191" group-title="Lista 05" ,ES: FOX NEWS
+#EXTINF:-1 tvg-id="191" group-title="Lista 05" ,ES: FOX NEWS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36434
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="192" group-title="Lista 05" ,ES: GOL T
+#EXTINF:-1 tvg-id="192" group-title="Lista 05" ,ES: GOL T
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36435
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="193" group-title="Lista 05" ,ES: HISTORIA
+#EXTINF:-1 tvg-id="193" group-title="Lista 05" ,ES: HISTORIA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36436
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="194" group-title="Lista 05" ,ES: HIT TV
+#EXTINF:-1 tvg-id="194" group-title="Lista 05" ,ES: HIT TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36437
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="195" group-title="Lista 05" ,ES: HOLLYWOOD HD
+#EXTINF:-1 tvg-id="195" group-title="Lista 05" ,ES: HOLLYWOOD HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36438
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="196" group-title="Lista 05" ,ES: HOLLYWOOD
+#EXTINF:-1 tvg-id="196" group-title="Lista 05" ,ES: HOLLYWOOD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36439
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="197" group-title="Lista 05" ,ES: IBERLIA TV
+#EXTINF:-1 tvg-id="197" group-title="Lista 05" ,ES: IBERLIA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36440
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="198" group-title="Lista 05" ,ES: INTERECONOMIA
+#EXTINF:-1 tvg-id="198" group-title="Lista 05" ,ES: INTERECONOMIA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36441
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="199" group-title="Lista 05" ,ES: LA 1 HD
+#EXTINF:-1 tvg-id="199" group-title="Lista 05" ,ES: LA 1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36442
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="200" group-title="Lista 05" ,ES: LA 1
+#EXTINF:-1 tvg-id="200" group-title="Lista 05" ,ES: LA 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36443
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="201" group-title="Lista 05" ,ES: LA 2 SD
+#EXTINF:-1 tvg-id="201" group-title="Lista 05" ,ES: LA 2 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36444
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="202" group-title="Lista 05" ,ES: LA 2
+#EXTINF:-1 tvg-id="202" group-title="Lista 05" ,ES: LA 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36445
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="203" group-title="Lista 05" ,ES: LA LIGA BAR HD
+#EXTINF:-1 tvg-id="203" group-title="Lista 05" ,ES: LA LIGA BAR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36446
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="204" group-title="Lista 05" ,ES: LA LIGA BAR M1
+#EXTINF:-1 tvg-id="204" group-title="Lista 05" ,ES: LA LIGA BAR M1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36447
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="205" group-title="Lista 05" ,ES: LA LIGA BAR M2
+#EXTINF:-1 tvg-id="205" group-title="Lista 05" ,ES: LA LIGA BAR M2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36448
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="206" group-title="Lista 05" ,ES: LA LIGA BAR M3
+#EXTINF:-1 tvg-id="206" group-title="Lista 05" ,ES: LA LIGA BAR M3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36449
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="207" group-title="Lista 05" ,ES: LA LIGA BAR M4
+#EXTINF:-1 tvg-id="207" group-title="Lista 05" ,ES: LA LIGA BAR M4
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36450
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="208" group-title="Lista 05" ,ES: LA SEXTA FHD
+#EXTINF:-1 tvg-id="208" group-title="Lista 05" ,ES: LA SEXTA FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36451
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="209" group-title="Lista 05" ,ES: LA SEXTA HD
+#EXTINF:-1 tvg-id="209" group-title="Lista 05" ,ES: LA SEXTA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36452
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="210" group-title="Lista 05" ,ES: LEVANTE TV
+#EXTINF:-1 tvg-id="210" group-title="Lista 05" ,ES: LEVANTE TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36453
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="211" group-title="Lista 05" ,ES: M. ACCION HD
+#EXTINF:-1 tvg-id="211" group-title="Lista 05" ,ES: M. ACCION HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36454
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="212" group-title="Lista 05" ,ES: M. COMEDIA HD
+#EXTINF:-1 tvg-id="212" group-title="Lista 05" ,ES: M. COMEDIA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36455
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="213" group-title="Lista 05" ,ES: M. COMEDIA
+#EXTINF:-1 tvg-id="213" group-title="Lista 05" ,ES: M. COMEDIA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36456
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="214" group-title="Lista 05" ,ES: M. DEPORTES 1 FHD
+#EXTINF:-1 tvg-id="214" group-title="Lista 05" ,ES: M. DEPORTES 1 FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36457
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="215" group-title="Lista 05" ,ES: M. DEPORTES 2
+#EXTINF:-1 tvg-id="215" group-title="Lista 05" ,ES: M. DEPORTES 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36458
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="216" group-title="Lista 05" ,ES: M. DEPORTES 3
+#EXTINF:-1 tvg-id="216" group-title="Lista 05" ,ES: M. DEPORTES 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36459
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="217" group-title="Lista 05" ,ES: M. DEPORTES 4
+#EXTINF:-1 tvg-id="217" group-title="Lista 05" ,ES: M. DEPORTES 4
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36460
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="218" group-title="Lista 05" ,ES: M. DEPORTES 5
+#EXTINF:-1 tvg-id="218" group-title="Lista 05" ,ES: M. DEPORTES 5
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36461
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="219" group-title="Lista 05" ,ES: M. DEPORTES 6
+#EXTINF:-1 tvg-id="219" group-title="Lista 05" ,ES: M. DEPORTES 6
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36462
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="220" group-title="Lista 05" ,ES: M. DEPORTES 7
+#EXTINF:-1 tvg-id="220" group-title="Lista 05" ,ES: M. DEPORTES 7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36463
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="221" group-title="Lista 05" ,ES: M. DEPORTES HD
+#EXTINF:-1 tvg-id="221" group-title="Lista 05" ,ES: M. DEPORTES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36464
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="222" group-title="Lista 05" ,ES: M. DEPORTES
+#EXTINF:-1 tvg-id="222" group-title="Lista 05" ,ES: M. DEPORTES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36465
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="223" group-title="Lista 05" ,ES: M. DISNEY
+#EXTINF:-1 tvg-id="223" group-title="Lista 05" ,ES: M. DISNEY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36466
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="224" group-title="Lista 05" ,ES: M. DOC&ROLL HD
+#EXTINF:-1 tvg-id="224" group-title="Lista 05" ,ES: M. DOC&ROLL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36467
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="225" group-title="Lista 05" ,ES: M. DRAMA HD
+#EXTINF:-1 tvg-id="225" group-title="Lista 05" ,ES: M. DRAMA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36468
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="226" group-title="Lista 05" ,ES: M. DRAMA
+#EXTINF:-1 tvg-id="226" group-title="Lista 05" ,ES: M. DRAMA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36469
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="227" group-title="Lista 05" ,ES: M. ESTRENOS HD
+#EXTINF:-1 tvg-id="227" group-title="Lista 05" ,ES: M. ESTRENOS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36470
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="228" group-title="Lista 05" ,ES: M. FORMULA 1 HD
+#EXTINF:-1 tvg-id="228" group-title="Lista 05" ,ES: M. FORMULA 1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36471
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="229" group-title="Lista 05" ,ES: M. FUTBOL HD
+#EXTINF:-1 tvg-id="229" group-title="Lista 05" ,ES: M. FUTBOL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36472
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="230" group-title="Lista 05" ,ES: M. GOLF FHD
+#EXTINF:-1 tvg-id="230" group-title="Lista 05" ,ES: M. GOLF FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36473
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="231" group-title="Lista 05" ,ES: M.GOLF  HD
+#EXTINF:-1 tvg-id="231" group-title="Lista 05" ,ES: M.GOLF  HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36488
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="232" group-title="Lista 05" ,ES: M. LALIGA FHD
+#EXTINF:-1 tvg-id="232" group-title="Lista 05" ,ES: M. LALIGA FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36474
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="233" group-title="Lista 05" ,ES: M. LALIGA HD
+#EXTINF:-1 tvg-id="233" group-title="Lista 05" ,ES: M. LALIGA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36475
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="234" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 1 HD
+#EXTINF:-1 tvg-id="234" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36476
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="235" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 2
+#EXTINF:-1 tvg-id="235" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36477
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="236" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 3
+#EXTINF:-1 tvg-id="236" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36478
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="237" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 4
+#EXTINF:-1 tvg-id="237" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 4
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36479
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="238" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 5
+#EXTINF:-1 tvg-id="238" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 5
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="239" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 6
+#EXTINF:-1 tvg-id="239" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 6
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36481
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="240" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 7
+#EXTINF:-1 tvg-id="240" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36482
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="241" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 8
+#EXTINF:-1 tvg-id="241" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES 8
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36483
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="242" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES
+#EXTINF:-1 tvg-id="242" group-title="Lista 05" ,ES: M. LIGA DE CAMPEONES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36484
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="243" group-title="Lista 05" ,ES: M. SERIES HD
+#EXTINF:-1 tvg-id="243" group-title="Lista 05" ,ES: M. SERIES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36485
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="244" group-title="Lista 05" ,ES: M. SERIES MANIA HD
+#EXTINF:-1 tvg-id="244" group-title="Lista 05" ,ES: M. SERIES MANIA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36486
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="245" group-title="Lista 05" ,ES: M. SERIES
+#EXTINF:-1 tvg-id="245" group-title="Lista 05" ,ES: M. SERIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36487
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="246" group-title="Lista 05" ,ES: MEGA HD
+#EXTINF:-1 tvg-id="246" group-title="Lista 05" ,ES: MEGA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36489
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="247" group-title="Lista 05" ,ES: MELILLA TV
+#EXTINF:-1 tvg-id="247" group-title="Lista 05" ,ES: MELILLA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36490
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="248" group-title="Lista 05" ,ES: MEZZO LIVE HD
+#EXTINF:-1 tvg-id="248" group-title="Lista 05" ,ES: MEZZO LIVE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36491
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="249" group-title="Lista 05" ,ES: MTV SPANA
+#EXTINF:-1 tvg-id="249" group-title="Lista 05" ,ES: MTV SPANA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36492
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="250" group-title="Lista 05" ,ES: NAT GEO WILD
+#EXTINF:-1 tvg-id="250" group-title="Lista 05" ,ES: NAT GEO WILD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36493
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="251" group-title="Lista 05" ,ES: NAT GEO
+#EXTINF:-1 tvg-id="251" group-title="Lista 05" ,ES: NAT GEO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36494
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="252" group-title="Lista 05" ,ES: NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="252" group-title="Lista 05" ,ES: NATIONAL GEOGRAPHIC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36495
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="253" group-title="Lista 05" ,ES: NEOX HD
+#EXTINF:-1 tvg-id="253" group-title="Lista 05" ,ES: NEOX HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36496
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="254" group-title="Lista 05" ,ES: NICKELODEON HD
+#EXTINF:-1 tvg-id="254" group-title="Lista 05" ,ES: NICKELODEON HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36498
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="255" group-title="Lista 05" ,ES: NICK JR
+#EXTINF:-1 tvg-id="255" group-title="Lista 05" ,ES: NICK JR
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36497
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="256" group-title="Lista 05" ,ES: NONSTOPEOPLE
+#EXTINF:-1 tvg-id="256" group-title="Lista 05" ,ES: NONSTOPEOPLE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36499
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="257" group-title="Lista 05" ,ES: NOVA
+#EXTINF:-1 tvg-id="257" group-title="Lista 05" ,ES: NOVA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36500
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="258" group-title="Lista 05" ,ES: ODISEA
+#EXTINF:-1 tvg-id="258" group-title="Lista 05" ,ES: ODISEA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36501
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="259" group-title="Lista 05" ,ES: ORBE 21
+#EXTINF:-1 tvg-id="259" group-title="Lista 05" ,ES: ORBE 21
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36502
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="260" group-title="Lista 05" ,ES: PANDA
+#EXTINF:-1 tvg-id="260" group-title="Lista 05" ,ES: PANDA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36503
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="261" group-title="Lista 05" ,ES: PARAMOUNT
+#EXTINF:-1 tvg-id="261" group-title="Lista 05" ,ES: PARAMOUNT
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36504
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="262" group-title="Lista 05" ,ES: REALMADRID TV
+#EXTINF:-1 tvg-id="262" group-title="Lista 05" ,ES: REALMADRID TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36505
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="263" group-title="Lista 05" ,ES: RTVCE CEUTA
+#EXTINF:-1 tvg-id="263" group-title="Lista 05" ,ES: RTVCE CEUTA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36507
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="264" group-title="Lista 05" ,ES: RTVC
+#EXTINF:-1 tvg-id="264" group-title="Lista 05" ,ES: RTVC
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36506
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="265" group-title="Lista 05" ,ES: SUNDANCE TV
+#EXTINF:-1 tvg-id="265" group-title="Lista 05" ,ES: SUNDANCE TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36508
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="266" group-title="Lista 05" ,ES: SYFY
+#EXTINF:-1 tvg-id="266" group-title="Lista 05" ,ES: SYFY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36509
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="267" group-title="Lista 05" ,ES: TCM HD
+#EXTINF:-1 tvg-id="267" group-title="Lista 05" ,ES: TCM HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36510
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="268" group-title="Lista 05" ,ES: TELECINCO HD
+#EXTINF:-1 tvg-id="268" group-title="Lista 05" ,ES: TELECINCO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36511
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="269" group-title="Lista 05" ,ES: TELECINCO
+#EXTINF:-1 tvg-id="269" group-title="Lista 05" ,ES: TELECINCO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36512
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="270" group-title="Lista 05" ,ES: TELEDEPORTE
+#EXTINF:-1 tvg-id="270" group-title="Lista 05" ,ES: TELEDEPORTE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36513
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="271" group-title="Lista 05" ,ES: TEN
+#EXTINF:-1 tvg-id="271" group-title="Lista 05" ,ES: TEN
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36514
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="272" group-title="Lista 05" ,ES: TNT
+#EXTINF:-1 tvg-id="272" group-title="Lista 05" ,ES: TNT
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="273" group-title="Lista 05" ,ES: TOROS HD
+#EXTINF:-1 tvg-id="273" group-title="Lista 05" ,ES: TOROS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="274" group-title="Lista 05" ,ES: TV3 CATALUñA FHD
+#EXTINF:-1 tvg-id="274" group-title="Lista 05" ,ES: TV3 CATALUñA FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36518
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="275" group-title="Lista 05" ,ES: TV3 HD
+#EXTINF:-1 tvg-id="275" group-title="Lista 05" ,ES: TV3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36519
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="276" group-title="Lista 05" ,ES: TV GALICIA
+#EXTINF:-1 tvg-id="276" group-title="Lista 05" ,ES: TV GALICIA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36517
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="277" group-title="Lista 05" ,ES: VIAJAR HD
+#EXTINF:-1 tvg-id="277" group-title="Lista 05" ,ES: VIAJAR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36520
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="278" group-title="Lista 05" ,ESPN 1 MX
+#EXTINF:-1 tvg-id="278" group-title="Lista 05" ,ESPN 1 MX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37234
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="279" group-title="Lista 05" ,ESPN 2 MX
+#EXTINF:-1 tvg-id="279" group-title="Lista 05" ,ESPN 2 MX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37229
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="280" group-title="Lista 05" ,ESPN 3 MX
+#EXTINF:-1 tvg-id="280" group-title="Lista 05" ,ESPN 3 MX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37231
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="281" group-title="Lista 05" ,ESPN DEPORTES
+#EXTINF:-1 tvg-id="281" group-title="Lista 05" ,ESPN DEPORTES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55153
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="282" group-title="Lista 05" ,ESPN PLUS HD
+#EXTINF:-1 tvg-id="282" group-title="Lista 05" ,ESPN PLUS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68293
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="283" group-title="Lista 05" ,ESPN SUR 1 HD
+#EXTINF:-1 tvg-id="283" group-title="Lista 05" ,ESPN SUR 1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68294
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="284" group-title="Lista 05" ,ESPN SUR 1
+#EXTINF:-1 tvg-id="284" group-title="Lista 05" ,ESPN SUR 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37233
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="285" group-title="Lista 05" ,ESPN SUR 2 HD
+#EXTINF:-1 tvg-id="285" group-title="Lista 05" ,ESPN SUR 2 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68291
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="286" group-title="Lista 05" ,ESPN SUR 2
+#EXTINF:-1 tvg-id="286" group-title="Lista 05" ,ESPN SUR 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37228
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="287" group-title="Lista 05" ,ESPN SUR 3 HD
+#EXTINF:-1 tvg-id="287" group-title="Lista 05" ,ESPN SUR 3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68292
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="288" group-title="Lista 05" ,ESPN SUR 3
+#EXTINF:-1 tvg-id="288" group-title="Lista 05" ,ESPN SUR 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37230
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="289" group-title="Lista 05" ,ESTRELLA TV US
+#EXTINF:-1 tvg-id="289" group-title="Lista 05" ,ESTRELLA TV US
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65849
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="290" group-title="Lista 05" ,EURO CHANNEL HD
+#EXTINF:-1 tvg-id="290" group-title="Lista 05" ,EURO CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68276
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="291" group-title="Lista 05" ,EUROCHANNEL
+#EXTINF:-1 tvg-id="291" group-title="Lista 05" ,EUROCHANNEL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43978
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="292" group-title="Lista 05" ,EURO NEWS HD
+#EXTINF:-1 tvg-id="292" group-title="Lista 05" ,EURO NEWS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68311
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="293" group-title="Lista 05" ,EUROPA EUROPA HD
+#EXTINF:-1 tvg-id="293" group-title="Lista 05" ,EUROPA EUROPA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68277
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="294" group-title="Lista 05" ,EUROSPORT 2 SD
+#EXTINF:-1 tvg-id="294" group-title="Lista 05" ,EUROSPORT 2 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67981
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="295" group-title="Lista 05" ,FDF SD
+#EXTINF:-1 tvg-id="295" group-title="Lista 05" ,FDF SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67982
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="296" group-title="Lista 05" ,FDF
+#EXTINF:-1 tvg-id="296" group-title="Lista 05" ,FDF
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66176
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="297" group-title="Lista 05" ,FILM & ARTS  LATINO
+#EXTINF:-1 tvg-id="297" group-title="Lista 05" ,FILM & ARTS  LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43979
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="298" group-title="Lista 05" ,FILMARTS HD
+#EXTINF:-1 tvg-id="298" group-title="Lista 05" ,FILMARTS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68278
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="299" group-title="Lista 05" ,FLIX MOVIES HD (EN)
+#EXTINF:-1 tvg-id="299" group-title="Lista 05" ,FLIX MOVIES HD (EN)
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="300" group-title="Lista 05" ,FOOD NETWORK HD
+#EXTINF:-1 tvg-id="300" group-title="Lista 05" ,FOOD NETWORK HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68279
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="301" group-title="Lista 05" ,FORMULA  1 LAT
+#EXTINF:-1 tvg-id="301" group-title="Lista 05" ,FORMULA  1 LAT
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68104
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="302" group-title="Lista 05" ,FORMULA 1 SD
+#EXTINF:-1 tvg-id="302" group-title="Lista 05" ,FORMULA 1 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67983
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="303" group-title="Lista 05" ,FOX/STAR CHANNE FULL HDL
+#EXTINF:-1 tvg-id="303" group-title="Lista 05" ,FOX/STAR CHANNE FULL HDL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68161
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="304" group-title="Lista 05" ,FOX/STAR PREMIUM ACTION FULL HD
+#EXTINF:-1 tvg-id="304" group-title="Lista 05" ,FOX/STAR PREMIUM ACTION FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68162
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="305" group-title="Lista 05" ,FOX/STAR PREMIUM CINEMA FULL HD
+#EXTINF:-1 tvg-id="305" group-title="Lista 05" ,FOX/STAR PREMIUM CINEMA FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68163
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="306" group-title="Lista 05" ,FOX/STAR PREMIUM CLASSIC FULL HD
+#EXTINF:-1 tvg-id="306" group-title="Lista 05" ,FOX/STAR PREMIUM CLASSIC FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68164
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="307" group-title="Lista 05" ,FOX/STAR PREMIUM COMEDY FULL HD
+#EXTINF:-1 tvg-id="307" group-title="Lista 05" ,FOX/STAR PREMIUM COMEDY FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68165
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="308" group-title="Lista 05" ,FOX/STAR PREMIUM FUN FULL HD
+#EXTINF:-1 tvg-id="308" group-title="Lista 05" ,FOX/STAR PREMIUM FUN FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68166
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="309" group-title="Lista 05" ,FOX/STAR PREMIUM HITS FULL HD
+#EXTINF:-1 tvg-id="309" group-title="Lista 05" ,FOX/STAR PREMIUM HITS FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68167
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="310" group-title="Lista 05" ,FOX/STAR PREMIUM SERIES FULL HD
+#EXTINF:-1 tvg-id="310" group-title="Lista 05" ,FOX/STAR PREMIUM SERIES FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68168
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="311" group-title="Lista 05" ,FOX LIFE SD
+#EXTINF:-1 tvg-id="311" group-title="Lista 05" ,FOX LIFE SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67984
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="312" group-title="Lista 05" ,FOX PREMIUM ACTION
+#EXTINF:-1 tvg-id="312" group-title="Lista 05" ,FOX PREMIUM ACTION
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43980
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="313" group-title="Lista 05" ,FOX PREMIUM CINEMA
+#EXTINF:-1 tvg-id="313" group-title="Lista 05" ,FOX PREMIUM CINEMA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43981
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="314" group-title="Lista 05" ,FOX PREMIUM CLASSICS
+#EXTINF:-1 tvg-id="314" group-title="Lista 05" ,FOX PREMIUM CLASSICS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43982
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="315" group-title="Lista 05" ,FOX PREMIUM COMEDY
+#EXTINF:-1 tvg-id="315" group-title="Lista 05" ,FOX PREMIUM COMEDY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43983
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="316" group-title="Lista 05" ,FOX PREMIUM FAMILY
+#EXTINF:-1 tvg-id="316" group-title="Lista 05" ,FOX PREMIUM FAMILY
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43984
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="317" group-title="Lista 05" ,FOX PREMIUM MOVIES
+#EXTINF:-1 tvg-id="317" group-title="Lista 05" ,FOX PREMIUM MOVIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43985
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="318" group-title="Lista 05" ,FOX PREMIUM SERIES
+#EXTINF:-1 tvg-id="318" group-title="Lista 05" ,FOX PREMIUM SERIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43986
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="319" group-title="Lista 05" ,FOX SD
+#EXTINF:-1 tvg-id="319" group-title="Lista 05" ,FOX SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67985
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="320" group-title="Lista 05" ,FOX SPORT PREMIUM HD
+#EXTINF:-1 tvg-id="320" group-title="Lista 05" ,FOX SPORT PREMIUM HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68297
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="321" group-title="Lista 05" ,FOX SPORT PREMIUM
+#EXTINF:-1 tvg-id="321" group-title="Lista 05" ,FOX SPORT PREMIUM
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37238
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="322" group-title="Lista 05" ,FOX SPORTS NORTE 1 SD
+#EXTINF:-1 tvg-id="322" group-title="Lista 05" ,FOX SPORTS NORTE 1 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56193
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="323" group-title="Lista 05" ,FOX SPORTS NORTE 2 SD
+#EXTINF:-1 tvg-id="323" group-title="Lista 05" ,FOX SPORTS NORTE 2 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37239
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="324" group-title="Lista 05" ,FOX SPORTS NORTE 3 SD
+#EXTINF:-1 tvg-id="324" group-title="Lista 05" ,FOX SPORTS NORTE 3 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37241
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="325" group-title="Lista 05" ,FOX SPORTS SD
+#EXTINF:-1 tvg-id="325" group-title="Lista 05" ,FOX SPORTS SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67986
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="326" group-title="Lista 05" ,FOX SPORTS SUR 1 HD
+#EXTINF:-1 tvg-id="326" group-title="Lista 05" ,FOX SPORTS SUR 1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68298
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="327" group-title="Lista 05" ,FOX SPORTS SUR 1
+#EXTINF:-1 tvg-id="327" group-title="Lista 05" ,FOX SPORTS SUR 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37244
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="328" group-title="Lista 05" ,FOX SPORTS SUR 2 HD
+#EXTINF:-1 tvg-id="328" group-title="Lista 05" ,FOX SPORTS SUR 2 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="329" group-title="Lista 05" ,FOX SPORTS SUR 2
+#EXTINF:-1 tvg-id="329" group-title="Lista 05" ,FOX SPORTS SUR 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37240
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="330" group-title="Lista 05" ,FOX SPORTS SUR 3 HD
+#EXTINF:-1 tvg-id="330" group-title="Lista 05" ,FOX SPORTS SUR 3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68296
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="331" group-title="Lista 05" ,FOX SPORTS SUR 3
+#EXTINF:-1 tvg-id="331" group-title="Lista 05" ,FOX SPORTS SUR 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37242
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="332" group-title="Lista 05" ,FRANCE 24 HD
+#EXTINF:-1 tvg-id="332" group-title="Lista 05" ,FRANCE 24 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68312
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="333" group-title="Lista 05" ,FX FULL HD
+#EXTINF:-1 tvg-id="333" group-title="Lista 05" ,FX FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68147
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="334" group-title="Lista 05" ,FX HD
+#EXTINF:-1 tvg-id="334" group-title="Lista 05" ,FX HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="335" group-title="Lista 05" ,FX MOVIES LATINO
+#EXTINF:-1 tvg-id="335" group-title="Lista 05" ,FX MOVIES LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43987
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="336" group-title="Lista 05" ,FX MOVIES
+#EXTINF:-1 tvg-id="336" group-title="Lista 05" ,FX MOVIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56296
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="337" group-title="Lista 05" ,FX
+#EXTINF:-1 tvg-id="337" group-title="Lista 05" ,FX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56232
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="338" group-title="Lista 05" ,GALAVISION US
+#EXTINF:-1 tvg-id="338" group-title="Lista 05" ,GALAVISION US
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65850
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="339" group-title="Lista 05" ,GLITZ HD
+#EXTINF:-1 tvg-id="339" group-title="Lista 05" ,GLITZ HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68254
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="340" group-title="Lista 05" ,GOLDEN EDGE MX
+#EXTINF:-1 tvg-id="340" group-title="Lista 05" ,GOLDEN EDGE MX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43968
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="341" group-title="Lista 05" ,GOLDEN  MX
+#EXTINF:-1 tvg-id="341" group-title="Lista 05" ,GOLDEN  MX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43967
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="342" group-title="Lista 05" ,GOLDEN PLUS
+#EXTINF:-1 tvg-id="342" group-title="Lista 05" ,GOLDEN PLUS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56297
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="343" group-title="Lista 05" ,GOLDEN PREMIER FULL HD
+#EXTINF:-1 tvg-id="343" group-title="Lista 05" ,GOLDEN PREMIER FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68149
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="344" group-title="Lista 05" ,GOLDEN PREMIER
+#EXTINF:-1 tvg-id="344" group-title="Lista 05" ,GOLDEN PREMIER
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56298
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="345" group-title="Lista 05" ,GOLDEN
+#EXTINF:-1 tvg-id="345" group-title="Lista 05" ,GOLDEN
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43971
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="346" group-title="Lista 05" ,GOLDEN
+#EXTINF:-1 tvg-id="346" group-title="Lista 05" ,GOLDEN
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56299
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="347" group-title="Lista 05" ,GOLF CHANNEL HD
+#EXTINF:-1 tvg-id="347" group-title="Lista 05" ,GOLF CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68299
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="348" group-title="Lista 05" ,GOL PERU
+#EXTINF:-1 tvg-id="348" group-title="Lista 05" ,GOL PERU
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37245
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="349" group-title="Lista 05" ,GOL TV
+#EXTINF:-1 tvg-id="349" group-title="Lista 05" ,GOL TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37247
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="350" group-title="Lista 05" ,HBO 2 FULL HD
+#EXTINF:-1 tvg-id="350" group-title="Lista 05" ,HBO 2 FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68150
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="351" group-title="Lista 05" ,HBO 2 LATINO
+#EXTINF:-1 tvg-id="351" group-title="Lista 05" ,HBO 2 LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43988
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="352" group-title="Lista 05" ,HBO 2 LATINO
+#EXTINF:-1 tvg-id="352" group-title="Lista 05" ,HBO 2 LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67514
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="353" group-title="Lista 05" ,HBO COMEDY EAST LATINO HD
+#EXTINF:-1 tvg-id="353" group-title="Lista 05" ,HBO COMEDY EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56303
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="354" group-title="Lista 05" ,HBO COMEDY LATINO
+#EXTINF:-1 tvg-id="354" group-title="Lista 05" ,HBO COMEDY LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43989
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="355" group-title="Lista 05" ,HBO EAST HD 1080P
+#EXTINF:-1 tvg-id="355" group-title="Lista 05" ,HBO EAST HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67515
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="356" group-title="Lista 05" ,HBO EAST LATINO HD
+#EXTINF:-1 tvg-id="356" group-title="Lista 05" ,HBO EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56304
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="357" group-title="Lista 05" ,HBO FAMILY EAST LATINO HD
+#EXTINF:-1 tvg-id="357" group-title="Lista 05" ,HBO FAMILY EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56305
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="358" group-title="Lista 05" ,HBO FAMILY HD 1080P
+#EXTINF:-1 tvg-id="358" group-title="Lista 05" ,HBO FAMILY HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67516
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="359" group-title="Lista 05" ,HBO FAMILY LATINOAMERICA
+#EXTINF:-1 tvg-id="359" group-title="Lista 05" ,HBO FAMILY LATINOAMERICA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56306
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="360" group-title="Lista 05" ,HBO FAMILY LATINO
+#EXTINF:-1 tvg-id="360" group-title="Lista 05" ,HBO FAMILY LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43990
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="361" group-title="Lista 05" ,HBO FAMILY LATINO
+#EXTINF:-1 tvg-id="361" group-title="Lista 05" ,HBO FAMILY LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67517
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="362" group-title="Lista 05" ,HBO FAMILY WEST LATINO HD
+#EXTINF:-1 tvg-id="362" group-title="Lista 05" ,HBO FAMILY WEST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56307
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="363" group-title="Lista 05" ,HBO FULL HD
+#EXTINF:-1 tvg-id="363" group-title="Lista 05" ,HBO FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68152
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="364" group-title="Lista 05" ,HBO LATINOAMERICA
+#EXTINF:-1 tvg-id="364" group-title="Lista 05" ,HBO LATINOAMERICA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56308
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="365" group-title="Lista 05" ,HBO LATINO HD
+#EXTINF:-1 tvg-id="365" group-title="Lista 05" ,HBO LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55102
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="366" group-title="Lista 05" ,HBO LATINO
+#EXTINF:-1 tvg-id="366" group-title="Lista 05" ,HBO LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43991
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="367" group-title="Lista 05" ,HBO LATINO
+#EXTINF:-1 tvg-id="367" group-title="Lista 05" ,HBO LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67518
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="368" group-title="Lista 05" ,HBO MUNDI HD
+#EXTINF:-1 tvg-id="368" group-title="Lista 05" ,HBO MUNDI HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56309
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="369" group-title="Lista 05" ,HBO PLUS FULL HD
+#EXTINF:-1 tvg-id="369" group-title="Lista 05" ,HBO PLUS FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68154
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="370" group-title="Lista 05" ,HBO PLUS HD 1080P
+#EXTINF:-1 tvg-id="370" group-title="Lista 05" ,HBO PLUS HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67519
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="371" group-title="Lista 05" ,HBO PLUS LATINO HD
+#EXTINF:-1 tvg-id="371" group-title="Lista 05" ,HBO PLUS LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56310
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="372" group-title="Lista 05" ,HBO PLUS LATINO
+#EXTINF:-1 tvg-id="372" group-title="Lista 05" ,HBO PLUS LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43992
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="373" group-title="Lista 05" ,HBO PLUS LATINO
+#EXTINF:-1 tvg-id="373" group-title="Lista 05" ,HBO PLUS LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56311
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="374" group-title="Lista 05" ,HBO PLUS WEST HD 1080P
+#EXTINF:-1 tvg-id="374" group-title="Lista 05" ,HBO PLUS WEST HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67520
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="375" group-title="Lista 05" ,HBO POP-2
+#EXTINF:-1 tvg-id="375" group-title="Lista 05" ,HBO POP-2
 http://balancer1.iptvmx.com:8081/tecno/HBOPOP.Tecnobyte/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="376" group-title="Lista 05" ,HBO POP FULL HD
+#EXTINF:-1 tvg-id="376" group-title="Lista 05" ,HBO POP FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68155
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="377" group-title="Lista 05" ,HBO SIGNATURE EAST LATINO HD
+#EXTINF:-1 tvg-id="377" group-title="Lista 05" ,HBO SIGNATURE EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56312
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="378" group-title="Lista 05" ,HBO SIGNATURE HD 1080P
+#EXTINF:-1 tvg-id="378" group-title="Lista 05" ,HBO SIGNATURE HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67521
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="379" group-title="Lista 05" ,HBO SIGNATURE LAM
+#EXTINF:-1 tvg-id="379" group-title="Lista 05" ,HBO SIGNATURE LAM
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43969
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="380" group-title="Lista 05" ,HBO SIGNATURE LATINO
+#EXTINF:-1 tvg-id="380" group-title="Lista 05" ,HBO SIGNATURE LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67522
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="381" group-title="Lista 05" ,HBO SIGNATURE WEST LATINO HD
+#EXTINF:-1 tvg-id="381" group-title="Lista 05" ,HBO SIGNATURE WEST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56313
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="382" group-title="Lista 05" ,HBO SUBTITULADO HD
+#EXTINF:-1 tvg-id="382" group-title="Lista 05" ,HBO SUBTITULADO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55103
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="383" group-title="Lista 05" ,HBO WEST HD 1080P
+#EXTINF:-1 tvg-id="383" group-title="Lista 05" ,HBO WEST HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67523
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="384" group-title="Lista 05" ,HBO WEST LATINO HD
+#EXTINF:-1 tvg-id="384" group-title="Lista 05" ,HBO WEST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56314
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="385" group-title="Lista 05" ,HBO XTREME FULL HD
+#EXTINF:-1 tvg-id="385" group-title="Lista 05" ,HBO XTREME FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68157
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="386" group-title="Lista 05" ,HBO XTREME HD
+#EXTINF:-1 tvg-id="386" group-title="Lista 05" ,HBO XTREME HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56315
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="387" group-title="Lista 05" ,HBO XTREME
+#EXTINF:-1 tvg-id="387" group-title="Lista 05" ,HBO XTREME
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56316
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="388" group-title="Lista 05" ,HBO ZONE LATINO HD
+#EXTINF:-1 tvg-id="388" group-title="Lista 05" ,HBO ZONE LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56317
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="389" group-title="Lista 05" ,HBO ZONE LATINO
+#EXTINF:-1 tvg-id="389" group-title="Lista 05" ,HBO ZONE LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43993
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="390" group-title="Lista 05" ,HECHOS TV
+#EXTINF:-1 tvg-id="390" group-title="Lista 05" ,HECHOS TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?23295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="391" group-title="Lista 05" ,HISTORIA SD
+#EXTINF:-1 tvg-id="391" group-title="Lista 05" ,HISTORIA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67987
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="392" group-title="Lista 05" ,HISTORIA
+#EXTINF:-1 tvg-id="392" group-title="Lista 05" ,HISTORIA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66180
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="393" group-title="Lista 05" ,HISTORY 2 HD
+#EXTINF:-1 tvg-id="393" group-title="Lista 05" ,HISTORY 2 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55150
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="394" group-title="Lista 05" ,HISTORY 2
+#EXTINF:-1 tvg-id="394" group-title="Lista 05" ,HISTORY 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56222
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="395" group-title="Lista 05" ,HISTORY CHANNEL FULL HD
+#EXTINF:-1 tvg-id="395" group-title="Lista 05" ,HISTORY CHANNEL FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68158
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="396" group-title="Lista 05" ,HISTORY CHANNEL HD
+#EXTINF:-1 tvg-id="396" group-title="Lista 05" ,HISTORY CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68233
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="397" group-title="Lista 05" ,HISTORY CHANNEL
+#EXTINF:-1 tvg-id="397" group-title="Lista 05" ,HISTORY CHANNEL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56223
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="398" group-title="Lista 05" ,HIT TV HD
+#EXTINF:-1 tvg-id="398" group-title="Lista 05" ,HIT TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66181
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="399" group-title="Lista 05" ,HIT TV
+#EXTINF:-1 tvg-id="399" group-title="Lista 05" ,HIT TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44191
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="400" group-title="Lista 05" ,HOLA TV HD
+#EXTINF:-1 tvg-id="400" group-title="Lista 05" ,HOLA TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68255
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="401" group-title="Lista 05" ,HOLA TV
+#EXTINF:-1 tvg-id="401" group-title="Lista 05" ,HOLA TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="402" group-title="Lista 05" ,HOLLYWOOD HD
+#EXTINF:-1 tvg-id="402" group-title="Lista 05" ,HOLLYWOOD HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66182
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="403" group-title="Lista 05" ,HOLLYWOOD SD
+#EXTINF:-1 tvg-id="403" group-title="Lista 05" ,HOLLYWOOD SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67988
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="404" group-title="Lista 05" ,HTV HD
+#EXTINF:-1 tvg-id="404" group-title="Lista 05" ,HTV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68284
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="405" group-title="Lista 05" ,I-SAT HD
+#EXTINF:-1 tvg-id="405" group-title="Lista 05" ,I-SAT HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68207
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="406" group-title="Lista 05" ,IBERALIA HD
+#EXTINF:-1 tvg-id="406" group-title="Lista 05" ,IBERALIA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66183
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="407" group-title="Lista 05" ,INDIEPLEX HD 1080P
+#EXTINF:-1 tvg-id="407" group-title="Lista 05" ,INDIEPLEX HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67524
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="408" group-title="Lista 05" ,LA 1 HD
+#EXTINF:-1 tvg-id="408" group-title="Lista 05" ,LA 1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66184
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="409" group-title="Lista 05" ,LA 2
+#EXTINF:-1 tvg-id="409" group-title="Lista 05" ,LA 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66185
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="410" group-title="Lista 05" ,LA LIGA SD
+#EXTINF:-1 tvg-id="410" group-title="Lista 05" ,LA LIGA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67989
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="411" group-title="Lista 05" ,LAS ESTRELLAS HD
+#EXTINF:-1 tvg-id="411" group-title="Lista 05" ,LAS ESTRELLAS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68253
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="412" group-title="Lista 05" ,LAS ESTRELLAS
+#EXTINF:-1 tvg-id="412" group-title="Lista 05" ,LAS ESTRELLAS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65890
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="413" group-title="Lista 05" ,LA SEXTA HD
+#EXTINF:-1 tvg-id="413" group-title="Lista 05" ,LA SEXTA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66186
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="414" group-title="Lista 05" ,LA SEXTA SD
+#EXTINF:-1 tvg-id="414" group-title="Lista 05" ,LA SEXTA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67990
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="415" group-title="Lista 05" ,LA SEXTA
+#EXTINF:-1 tvg-id="415" group-title="Lista 05" ,LA SEXTA
 http://91.126.141.13:1935/live/21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="416" group-title="Lista 05" ,LIFETIME HD
+#EXTINF:-1 tvg-id="416" group-title="Lista 05" ,LIFETIME HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68256
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="417" group-title="Lista 05" ,LOS 40 TV (RADIO)
+#EXTINF:-1 tvg-id="417" group-title="Lista 05" ,LOS 40 TV (RADIO)
 https://20133.live.streamtheworld.com/LOS40.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="418" group-title="Lista 05" ,MAS CHIC HD
+#EXTINF:-1 tvg-id="418" group-title="Lista 05" ,MAS CHIC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="419" group-title="Lista 05" ,MAX PRIME
+#EXTINF:-1 tvg-id="419" group-title="Lista 05" ,MAX PRIME
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43972
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="420" group-title="Lista 05" ,MAX UP
+#EXTINF:-1 tvg-id="420" group-title="Lista 05" ,MAX UP
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43994
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="421" group-title="Lista 05" ,MAX
+#EXTINF:-1 tvg-id="421" group-title="Lista 05" ,MAX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43995
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="422" group-title="Lista 05" ,MEGA SD
+#EXTINF:-1 tvg-id="422" group-title="Lista 05" ,MEGA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67991
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="423" group-title="Lista 05" ,MEGA TV
+#EXTINF:-1 tvg-id="423" group-title="Lista 05" ,MEGA TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65868
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="424" group-title="Lista 05" ,MOREMAX HD 1080P
+#EXTINF:-1 tvg-id="424" group-title="Lista 05" ,MOREMAX HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67525
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="425" group-title="Lista 05" ,MOVIEMAX HD 1080P
+#EXTINF:-1 tvg-id="425" group-title="Lista 05" ,MOVIEMAX HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67526
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="426" group-title="Lista 05" ,MOVIEPLEX HD 1080P
+#EXTINF:-1 tvg-id="426" group-title="Lista 05" ,MOVIEPLEX HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67527
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="427" group-title="Lista 05" ,MOVIESTAR SERIES FHD
+#EXTINF:-1 tvg-id="427" group-title="Lista 05" ,MOVIESTAR SERIES FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66191
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="428" group-title="Lista 05" ,MOVISTAR 0 SD
+#EXTINF:-1 tvg-id="428" group-title="Lista 05" ,MOVISTAR 0 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67992
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="429" group-title="Lista 05" ,MOVISTAR ACCION SD
+#EXTINF:-1 tvg-id="429" group-title="Lista 05" ,MOVISTAR ACCION SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66195
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="430" group-title="Lista 05" ,MOVISTAR ACCION SD
+#EXTINF:-1 tvg-id="430" group-title="Lista 05" ,MOVISTAR ACCION SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67993
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="431" group-title="Lista 05" ,MOVISTAR ACCION
+#EXTINF:-1 tvg-id="431" group-title="Lista 05" ,MOVISTAR ACCION
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56318
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="432" group-title="Lista 05" ,MOVISTAR CINEDOC&ROLL HD
+#EXTINF:-1 tvg-id="432" group-title="Lista 05" ,MOVISTAR CINEDOC&ROLL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66196
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="433" group-title="Lista 05" ,MOVISTAR COMEDIA SD
+#EXTINF:-1 tvg-id="433" group-title="Lista 05" ,MOVISTAR COMEDIA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67994
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="434" group-title="Lista 05" ,MOVISTAR DCINE FHD
+#EXTINF:-1 tvg-id="434" group-title="Lista 05" ,MOVISTAR DCINE FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66197
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="435" group-title="Lista 05" ,MOVISTAR DCINE SD
+#EXTINF:-1 tvg-id="435" group-title="Lista 05" ,MOVISTAR DCINE SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67995
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="436" group-title="Lista 05" ,MOVISTAR DEPORTES 1 SD
+#EXTINF:-1 tvg-id="436" group-title="Lista 05" ,MOVISTAR DEPORTES 1 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67996
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="437" group-title="Lista 05" ,MOVISTAR DEPORTES 2 SD
+#EXTINF:-1 tvg-id="437" group-title="Lista 05" ,MOVISTAR DEPORTES 2 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="438" group-title="Lista 05" ,MOVISTAR  DEPORTES HD
+#EXTINF:-1 tvg-id="438" group-title="Lista 05" ,MOVISTAR  DEPORTES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66192
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="439" group-title="Lista 05" ,MOVISTAR DISNEY HD
+#EXTINF:-1 tvg-id="439" group-title="Lista 05" ,MOVISTAR DISNEY HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66198
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="440" group-title="Lista 05" ,MOVISTAR  DRAMA HD
+#EXTINF:-1 tvg-id="440" group-title="Lista 05" ,MOVISTAR  DRAMA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66193
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="441" group-title="Lista 05" ,MOVISTAR DRAMA
+#EXTINF:-1 tvg-id="441" group-title="Lista 05" ,MOVISTAR DRAMA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56319
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="442" group-title="Lista 05" ,MOVISTAR DRAMA
+#EXTINF:-1 tvg-id="442" group-title="Lista 05" ,MOVISTAR DRAMA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66199
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="443" group-title="Lista 05" ,MOVISTAR ESTRENOS FHD
+#EXTINF:-1 tvg-id="443" group-title="Lista 05" ,MOVISTAR ESTRENOS FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66200
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="444" group-title="Lista 05" ,MOVISTAR ESTRENOS SD
+#EXTINF:-1 tvg-id="444" group-title="Lista 05" ,MOVISTAR ESTRENOS SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67998
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="445" group-title="Lista 05" ,MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-id="445" group-title="Lista 05" ,MOVISTAR ESTRENOS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56320
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="446" group-title="Lista 05" ,MOVISTAR LALIGA FHD
+#EXTINF:-1 tvg-id="446" group-title="Lista 05" ,MOVISTAR LALIGA FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66189
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="447" group-title="Lista 05" ,MOVISTAR LIGA DE CAMPEOESN 4K
+#EXTINF:-1 tvg-id="447" group-title="Lista 05" ,MOVISTAR LIGA DE CAMPEOESN 4K
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66187
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="448" group-title="Lista 05" ,MOVISTAR LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-id="448" group-title="Lista 05" ,MOVISTAR LIGA DE CAMPEONES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66188
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="449" group-title="Lista 05" ,MOVISTAR LIGA DE CAMPEONES
+#EXTINF:-1 tvg-id="449" group-title="Lista 05" ,MOVISTAR LIGA DE CAMPEONES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66190
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="450" group-title="Lista 05" ,MOVISTAR SERIES 1 SD
+#EXTINF:-1 tvg-id="450" group-title="Lista 05" ,MOVISTAR SERIES 1 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="451" group-title="Lista 05" ,MOVISTAR SERIES XTRA FHD
+#EXTINF:-1 tvg-id="451" group-title="Lista 05" ,MOVISTAR SERIES XTRA FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66201
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="452" group-title="Lista 05" ,MOVISTAR SERIES XTRA SD
+#EXTINF:-1 tvg-id="452" group-title="Lista 05" ,MOVISTAR SERIES XTRA SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68001
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="453" group-title="Lista 05" ,MOVISTAR TOROS SD
+#EXTINF:-1 tvg-id="453" group-title="Lista 05" ,MOVISTAR TOROS SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68002
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="454" group-title="Lista 05" ,MOVISTAR  XTRA HD
+#EXTINF:-1 tvg-id="454" group-title="Lista 05" ,MOVISTAR  XTRA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66194
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="455" group-title="Lista 05" ,MTV HD
+#EXTINF:-1 tvg-id="455" group-title="Lista 05" ,MTV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68285
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="456" group-title="Lista 05" ,MTV HITS HD
+#EXTINF:-1 tvg-id="456" group-title="Lista 05" ,MTV HITS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68286
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="457" group-title="Lista 05" ,MTV HITS
+#EXTINF:-1 tvg-id="457" group-title="Lista 05" ,MTV HITS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44183
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="458" group-title="Lista 05" ,MTV
+#EXTINF:-1 tvg-id="458" group-title="Lista 05" ,MTV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44182
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="459" group-title="Lista 05" ,MUCHMUSIC HD
+#EXTINF:-1 tvg-id="459" group-title="Lista 05" ,MUCHMUSIC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68287
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="460" group-title="Lista 05" ,MULTICINEMA
+#EXTINF:-1 tvg-id="460" group-title="Lista 05" ,MULTICINEMA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56321
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="461" group-title="Lista 05" ,MULTIPREMIER
+#EXTINF:-1 tvg-id="461" group-title="Lista 05" ,MULTIPREMIER
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43996
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="462" group-title="Lista 05" ,NAT GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="462" group-title="Lista 05" ,NAT GEOGRAPHIC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66203
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="463" group-title="Lista 05" ,NAT GEO HD
+#EXTINF:-1 tvg-id="463" group-title="Lista 05" ,NAT GEO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68280
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="464" group-title="Lista 05" ,NATGEO KIDS HD
+#EXTINF:-1 tvg-id="464" group-title="Lista 05" ,NATGEO KIDS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68322
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="465" group-title="Lista 05" ,NAT GEO WILD HD
+#EXTINF:-1 tvg-id="465" group-title="Lista 05" ,NAT GEO WILD HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68281
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="466" group-title="Lista 05" ,NAT GEO WILD SD
+#EXTINF:-1 tvg-id="466" group-title="Lista 05" ,NAT GEO WILD SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="467" group-title="Lista 05" ,NAT GEO WILD
+#EXTINF:-1 tvg-id="467" group-title="Lista 05" ,NAT GEO WILD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56224
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="468" group-title="Lista 05" ,NAT GEO WILD
+#EXTINF:-1 tvg-id="468" group-title="Lista 05" ,NAT GEO WILD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66202
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="469" group-title="Lista 05" ,NAT GEO
+#EXTINF:-1 tvg-id="469" group-title="Lista 05" ,NAT GEO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56225
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="470" group-title="Lista 05" ,NATIONAL GEOGRAPHIC FULL HD
+#EXTINF:-1 tvg-id="470" group-title="Lista 05" ,NATIONAL GEOGRAPHIC FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68159
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="471" group-title="Lista 05" ,NATIONAL GEOGRAPHIC SD
+#EXTINF:-1 tvg-id="471" group-title="Lista 05" ,NATIONAL GEOGRAPHIC SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68004
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="472" group-title="Lista 05" ,NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="472" group-title="Lista 05" ,NATIONAL GEOGRAPHIC
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66204
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="473" group-title="Lista 05" ,NBA TV HD
+#EXTINF:-1 tvg-id="473" group-title="Lista 05" ,NBA TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68300
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="474" group-title="Lista 05" ,NEOX TV
+#EXTINF:-1 tvg-id="474" group-title="Lista 05" ,NEOX TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66205
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="475" group-title="Lista 05" ,NICK 2
+#EXTINF:-1 tvg-id="475" group-title="Lista 05" ,NICK 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="476" group-title="Lista 05" ,NICKELODEON HD
+#EXTINF:-1 tvg-id="476" group-title="Lista 05" ,NICKELODEON HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66206
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="477" group-title="Lista 05" ,NICKELODEON HD
+#EXTINF:-1 tvg-id="477" group-title="Lista 05" ,NICKELODEON HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68325
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="478" group-title="Lista 05" ,NICKELODEON
+#EXTINF:-1 tvg-id="478" group-title="Lista 05" ,NICKELODEON
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56210
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="479" group-title="Lista 05" ,NICK JR HD
+#EXTINF:-1 tvg-id="479" group-title="Lista 05" ,NICK JR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68323
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="480" group-title="Lista 05" ,NICK MUSIC HD
+#EXTINF:-1 tvg-id="480" group-title="Lista 05" ,NICK MUSIC HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68324
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="481" group-title="Lista 05" ,ODISEA HD
+#EXTINF:-1 tvg-id="481" group-title="Lista 05" ,ODISEA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66155
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="482" group-title="Lista 05" ,O HD
+#EXTINF:-1 tvg-id="482" group-title="Lista 05" ,O HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36382
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="483" group-title="Lista 05" ,OUTERMAX HD 1080P
+#EXTINF:-1 tvg-id="483" group-title="Lista 05" ,OUTERMAX HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="484" group-title="Lista 05" ,PARAMOUNT CHANNEL LATINO
+#EXTINF:-1 tvg-id="484" group-title="Lista 05" ,PARAMOUNT CHANNEL LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43997
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="485" group-title="Lista 05" ,PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="485" group-title="Lista 05" ,PARAMOUNT CHANNEL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66207
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="486" group-title="Lista 05" ,PARAMOUNT NETWORK LATINOAMERICA
+#EXTINF:-1 tvg-id="486" group-title="Lista 05" ,PARAMOUNT NETWORK LATINOAMERICA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56323
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="487" group-title="Lista 05" ,PASIONES HD
+#EXTINF:-1 tvg-id="487" group-title="Lista 05" ,PASIONES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68258
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="488" group-title="Lista 05" ,PEQUEÑINES
+#EXTINF:-1 tvg-id="488" group-title="Lista 05" ,PEQUEÑINES
 http://91.126.141.13:1935/live/111/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="489" group-title="Lista 05" ,PREMIER ACCION 24X7
+#EXTINF:-1 tvg-id="489" group-title="Lista 05" ,PREMIER ACCION 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55170
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="490" group-title="Lista 05" ,PREMIER CIENCIAFICCION 24X7
+#EXTINF:-1 tvg-id="490" group-title="Lista 05" ,PREMIER CIENCIAFICCION 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55171
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="491" group-title="Lista 05" ,PREMIER CINEMA 24X7
+#EXTINF:-1 tvg-id="491" group-title="Lista 05" ,PREMIER CINEMA 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55172
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="492" group-title="Lista 05" ,PREMIER CLASSICS 24X7
+#EXTINF:-1 tvg-id="492" group-title="Lista 05" ,PREMIER CLASSICS 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55173
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="493" group-title="Lista 05" ,PREMIER COMEDIA 24X7
+#EXTINF:-1 tvg-id="493" group-title="Lista 05" ,PREMIER COMEDIA 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55174
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="494" group-title="Lista 05" ,PREMIER DRAMA 24X7
+#EXTINF:-1 tvg-id="494" group-title="Lista 05" ,PREMIER DRAMA 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55175
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="495" group-title="Lista 05" ,PREMIER ESTRENOS 24X7
+#EXTINF:-1 tvg-id="495" group-title="Lista 05" ,PREMIER ESTRENOS 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55176
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="496" group-title="Lista 05" ,PREMIER FAMILY 24X7
+#EXTINF:-1 tvg-id="496" group-title="Lista 05" ,PREMIER FAMILY 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55177
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="497" group-title="Lista 05" ,PREMIER INFANTIL 24X7
+#EXTINF:-1 tvg-id="497" group-title="Lista 05" ,PREMIER INFANTIL 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55178
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="498" group-title="Lista 05" ,PREMIER PLUS 24X7
+#EXTINF:-1 tvg-id="498" group-title="Lista 05" ,PREMIER PLUS 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55179
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="499" group-title="Lista 05" ,PREMIER TERROR 24X7
+#EXTINF:-1 tvg-id="499" group-title="Lista 05" ,PREMIER TERROR 24X7
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55180
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="500" group-title="Lista 05" ,PRIVE MOVIES HD (EN)
+#EXTINF:-1 tvg-id="500" group-title="Lista 05" ,PRIVE MOVIES HD (EN)
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="501" group-title="Lista 05" ,PX SPORTS HD
+#EXTINF:-1 tvg-id="501" group-title="Lista 05" ,PX SPORTS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68301
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="502" group-title="Lista 05" ,RAI HD
+#EXTINF:-1 tvg-id="502" group-title="Lista 05" ,RAI HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="503" group-title="Lista 05" ,RETRO MUSIC TV
+#EXTINF:-1 tvg-id="503" group-title="Lista 05" ,RETRO MUSIC TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44184
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="504" group-title="Lista 05" ,RETROPLEX HD 1080P
+#EXTINF:-1 tvg-id="504" group-title="Lista 05" ,RETROPLEX HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67529
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="505" group-title="Lista 05" ,RT EN ESPAñOL
+#EXTINF:-1 tvg-id="505" group-title="Lista 05" ,RT EN ESPAñOL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43698
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="506" group-title="Lista 05" ,SERIESMANIA HD
+#EXTINF:-1 tvg-id="506" group-title="Lista 05" ,SERIESMANIA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66208
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="507" group-title="Lista 05" ,SHOWTIME 2 EAST LATINO HD
+#EXTINF:-1 tvg-id="507" group-title="Lista 05" ,SHOWTIME 2 EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56324
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="508" group-title="Lista 05" ,SHOWTIME 2 LATINO
+#EXTINF:-1 tvg-id="508" group-title="Lista 05" ,SHOWTIME 2 LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43998
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="509" group-title="Lista 05" ,SHOWTIME 2 LATINO
+#EXTINF:-1 tvg-id="509" group-title="Lista 05" ,SHOWTIME 2 LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67530
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="510" group-title="Lista 05" ,SHOWTIME BEYOND HD 1080P
+#EXTINF:-1 tvg-id="510" group-title="Lista 05" ,SHOWTIME BEYOND HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67531
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="511" group-title="Lista 05" ,SHOWTIME EAST HD
+#EXTINF:-1 tvg-id="511" group-title="Lista 05" ,SHOWTIME EAST HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67532
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="512" group-title="Lista 05" ,SHOWTIME EAST LATINO HD
+#EXTINF:-1 tvg-id="512" group-title="Lista 05" ,SHOWTIME EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56325
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="513" group-title="Lista 05" ,SHOWTIME EXTREME LATINO
+#EXTINF:-1 tvg-id="513" group-title="Lista 05" ,SHOWTIME EXTREME LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67533
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="514" group-title="Lista 05" ,SHOWTIME HD 1080P
+#EXTINF:-1 tvg-id="514" group-title="Lista 05" ,SHOWTIME HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67534
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="515" group-title="Lista 05" ,SHOWTIME LATINO
+#EXTINF:-1 tvg-id="515" group-title="Lista 05" ,SHOWTIME LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?43999
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="516" group-title="Lista 05" ,SHOWTIME LATINO
+#EXTINF:-1 tvg-id="516" group-title="Lista 05" ,SHOWTIME LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67535
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="517" group-title="Lista 05" ,SHOWTIME WEST HD
+#EXTINF:-1 tvg-id="517" group-title="Lista 05" ,SHOWTIME WEST HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67536
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="518" group-title="Lista 05" ,SPACE FULL HD
+#EXTINF:-1 tvg-id="518" group-title="Lista 05" ,SPACE FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68160
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="519" group-title="Lista 05" ,SPACE HD
+#EXTINF:-1 tvg-id="519" group-title="Lista 05" ,SPACE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56326
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="520" group-title="Lista 05" ,SPACE LATINO
+#EXTINF:-1 tvg-id="520" group-title="Lista 05" ,SPACE LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="521" group-title="Lista 05" ,SPACE
+#EXTINF:-1 tvg-id="521" group-title="Lista 05" ,SPACE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56327
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="522" group-title="Lista 05" ,STAR CHANNEL HD
+#EXTINF:-1 tvg-id="522" group-title="Lista 05" ,STAR CHANNEL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68209
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="523" group-title="Lista 05" ,STAR CHANNEL
+#EXTINF:-1 tvg-id="523" group-title="Lista 05" ,STAR CHANNEL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56231
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="524" group-title="Lista 05" ,STAR HD 4K
+#EXTINF:-1 tvg-id="524" group-title="Lista 05" ,STAR HD 4K
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66177
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="525" group-title="Lista 05" ,STAR HD
+#EXTINF:-1 tvg-id="525" group-title="Lista 05" ,STAR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66178
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="526" group-title="Lista 05" ,STAR LIFE HD
+#EXTINF:-1 tvg-id="526" group-title="Lista 05" ,STAR LIFE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68259
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="527" group-title="Lista 05" ,STAR LIFE
+#EXTINF:-1 tvg-id="527" group-title="Lista 05" ,STAR LIFE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66179
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="528" group-title="Lista 05" ,STAR PREMIUM ACTION
+#EXTINF:-1 tvg-id="528" group-title="Lista 05" ,STAR PREMIUM ACTION
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56285
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="529" group-title="Lista 05" ,STAR PREMIUM CINEMA
+#EXTINF:-1 tvg-id="529" group-title="Lista 05" ,STAR PREMIUM CINEMA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56286
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="530" group-title="Lista 05" ,STAR PREMIUM CLASSICS
+#EXTINF:-1 tvg-id="530" group-title="Lista 05" ,STAR PREMIUM CLASSICS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56287
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="531" group-title="Lista 05" ,STAR PREMIUM COMEDY HD
+#EXTINF:-1 tvg-id="531" group-title="Lista 05" ,STAR PREMIUM COMEDY HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56288
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="532" group-title="Lista 05" ,STAR PREMIUM FUN HD
+#EXTINF:-1 tvg-id="532" group-title="Lista 05" ,STAR PREMIUM FUN HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56290
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="533" group-title="Lista 05" ,STAR PREMIUM HITS HD
+#EXTINF:-1 tvg-id="533" group-title="Lista 05" ,STAR PREMIUM HITS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56292
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="534" group-title="Lista 05" ,STAR PREMIUM HITS
+#EXTINF:-1 tvg-id="534" group-title="Lista 05" ,STAR PREMIUM HITS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56293
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="535" group-title="Lista 05" ,STAR PREMIUM SERIES HD
+#EXTINF:-1 tvg-id="535" group-title="Lista 05" ,STAR PREMIUM SERIES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56294
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="536" group-title="Lista 05" ,STAR PREMIUM SERIES
+#EXTINF:-1 tvg-id="536" group-title="Lista 05" ,STAR PREMIUM SERIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56295
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="537" group-title="Lista 05" ,STAR TVE SD
+#EXTINF:-1 tvg-id="537" group-title="Lista 05" ,STAR TVE SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68005
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="538" group-title="Lista 05" ,STARZ BLACK HD 1080P
+#EXTINF:-1 tvg-id="538" group-title="Lista 05" ,STARZ BLACK HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67537
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="539" group-title="Lista 05" ,STARZ CINEMA EAST LATINO HD
+#EXTINF:-1 tvg-id="539" group-title="Lista 05" ,STARZ CINEMA EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56328
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="540" group-title="Lista 05" ,STARZ CINEMA HD 1080P
+#EXTINF:-1 tvg-id="540" group-title="Lista 05" ,STARZ CINEMA HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67538
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="541" group-title="Lista 05" ,STARZ COMEDY EAST LATINO HD
+#EXTINF:-1 tvg-id="541" group-title="Lista 05" ,STARZ COMEDY EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56329
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="542" group-title="Lista 05" ,STARZ COMEDY HD 1080P
+#EXTINF:-1 tvg-id="542" group-title="Lista 05" ,STARZ COMEDY HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67539
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="543" group-title="Lista 05" ,STARZ COMEDY HD
+#EXTINF:-1 tvg-id="543" group-title="Lista 05" ,STARZ COMEDY HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67540
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="544" group-title="Lista 05" ,STARZ EAST HD 1080P
+#EXTINF:-1 tvg-id="544" group-title="Lista 05" ,STARZ EAST HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67541
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="545" group-title="Lista 05" ,STARZ EAST LATINO HD
+#EXTINF:-1 tvg-id="545" group-title="Lista 05" ,STARZ EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56330
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="546" group-title="Lista 05" ,STARZ EDGE EAST LATINO HD
+#EXTINF:-1 tvg-id="546" group-title="Lista 05" ,STARZ EDGE EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56331
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="547" group-title="Lista 05" ,STARZ ENCORE ACTION 1080P
+#EXTINF:-1 tvg-id="547" group-title="Lista 05" ,STARZ ENCORE ACTION 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67542
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="548" group-title="Lista 05" ,STARZ ENCORE BLACK HD 1080P
+#EXTINF:-1 tvg-id="548" group-title="Lista 05" ,STARZ ENCORE BLACK HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67543
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="549" group-title="Lista 05" ,STARZ ENCORE CLASSIC HD 1080P
+#EXTINF:-1 tvg-id="549" group-title="Lista 05" ,STARZ ENCORE CLASSIC HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67544
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="550" group-title="Lista 05" ,STARZ ENCORE HD 1080P
+#EXTINF:-1 tvg-id="550" group-title="Lista 05" ,STARZ ENCORE HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67545
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="551" group-title="Lista 05" ,STARZ ENCORE HD
+#EXTINF:-1 tvg-id="551" group-title="Lista 05" ,STARZ ENCORE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67546
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="552" group-title="Lista 05" ,STARZ ENCORE LATINO HD
+#EXTINF:-1 tvg-id="552" group-title="Lista 05" ,STARZ ENCORE LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56332
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="553" group-title="Lista 05" ,STARZ ENCORE SUSPENSE HD 1080P
+#EXTINF:-1 tvg-id="553" group-title="Lista 05" ,STARZ ENCORE SUSPENSE HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67547
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="554" group-title="Lista 05" ,STARZ ENCORE WESTERN HD 1080P
+#EXTINF:-1 tvg-id="554" group-title="Lista 05" ,STARZ ENCORE WESTERN HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67548
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="555" group-title="Lista 05" ,STARZ HD 1080P
+#EXTINF:-1 tvg-id="555" group-title="Lista 05" ,STARZ HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67549
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="556" group-title="Lista 05" ,STARZ KIDS & FAMILY EAST LATINO HD
+#EXTINF:-1 tvg-id="556" group-title="Lista 05" ,STARZ KIDS & FAMILY EAST LATINO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56333
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="557" group-title="Lista 05" ,STARZ WEST HD 1080P
+#EXTINF:-1 tvg-id="557" group-title="Lista 05" ,STARZ WEST HD 1080P
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?67550
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="558" group-title="Lista 05" ,STUDIO UNIVERSAL LATINO
+#EXTINF:-1 tvg-id="558" group-title="Lista 05" ,STUDIO UNIVERSAL LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44001
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="559" group-title="Lista 05" ,SUNDANCE HD
+#EXTINF:-1 tvg-id="559" group-title="Lista 05" ,SUNDANCE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66209
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="560" group-title="Lista 05" ,SYFY HD
+#EXTINF:-1 tvg-id="560" group-title="Lista 05" ,SYFY HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66210
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="561" group-title="Lista 05" ,SYFY HD
+#EXTINF:-1 tvg-id="561" group-title="Lista 05" ,SYFY HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68210
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="562" group-title="Lista 05" ,SYFY SD
+#EXTINF:-1 tvg-id="562" group-title="Lista 05" ,SYFY SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68006
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="563" group-title="Lista 05" ,TASTE MADE ESPAÑOL (US)
+#EXTINF:-1 tvg-id="563" group-title="Lista 05" ,TASTE MADE ESPAÑOL (US)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="564" group-title="Lista 05" ,TBS HD
+#EXTINF:-1 tvg-id="564" group-title="Lista 05" ,TBS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68211
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="565" group-title="Lista 05" ,TCM AMERICA LATINA
+#EXTINF:-1 tvg-id="565" group-title="Lista 05" ,TCM AMERICA LATINA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56334
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="566" group-title="Lista 05" ,TCM LATINO
+#EXTINF:-1 tvg-id="566" group-title="Lista 05" ,TCM LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44002
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="567" group-title="Lista 05" ,TCM
+#EXTINF:-1 tvg-id="567" group-title="Lista 05" ,TCM
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66211
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="568" group-title="Lista 05" ,TDP
+#EXTINF:-1 tvg-id="568" group-title="Lista 05" ,TDP
 http://91.126.141.13:1935/live/91/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="569" group-title="Lista 05" ,TELE-DEPORTE
+#EXTINF:-1 tvg-id="569" group-title="Lista 05" ,TELE-DEPORTE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66214
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="570" group-title="Lista 05" ,TELE 5 SD
+#EXTINF:-1 tvg-id="570" group-title="Lista 05" ,TELE 5 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68007
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="571" group-title="Lista 05" ,TELECINCO HD
+#EXTINF:-1 tvg-id="571" group-title="Lista 05" ,TELECINCO HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66213
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="572" group-title="Lista 05" ,TELE MADRID HD
+#EXTINF:-1 tvg-id="572" group-title="Lista 05" ,TELE MADRID HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66212
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="573" group-title="Lista 05" ,TELEMUNDO INTERNACIONAL HD
+#EXTINF:-1 tvg-id="573" group-title="Lista 05" ,TELEMUNDO INTERNACIONAL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68260
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="574" group-title="Lista 05" ,TELEMUNDO INTERNACIONAL
+#EXTINF:-1 tvg-id="574" group-title="Lista 05" ,TELEMUNDO INTERNACIONAL
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65851
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="575" group-title="Lista 05" ,TELEMUNDO PUERTO RICO
+#EXTINF:-1 tvg-id="575" group-title="Lista 05" ,TELEMUNDO PUERTO RICO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65869
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="576" group-title="Lista 05" ,TELEMUNDO US (BOSTON)
+#EXTINF:-1 tvg-id="576" group-title="Lista 05" ,TELEMUNDO US (BOSTON)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65889
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="577" group-title="Lista 05" ,TELEMUNDO US (CHICAGO)
+#EXTINF:-1 tvg-id="577" group-title="Lista 05" ,TELEMUNDO US (CHICAGO)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65888
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="578" group-title="Lista 05" ,TELEMUNDO US (DALLAS)
+#EXTINF:-1 tvg-id="578" group-title="Lista 05" ,TELEMUNDO US (DALLAS)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65887
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="579" group-title="Lista 05" ,TELEMUNDO US (DENVER)
+#EXTINF:-1 tvg-id="579" group-title="Lista 05" ,TELEMUNDO US (DENVER)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65886
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="580" group-title="Lista 05" ,TELEMUNDO US (LAS VEGAS)
+#EXTINF:-1 tvg-id="580" group-title="Lista 05" ,TELEMUNDO US (LAS VEGAS)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65885
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="581" group-title="Lista 05" ,TELEMUNDO US (LOS ANGELES)
+#EXTINF:-1 tvg-id="581" group-title="Lista 05" ,TELEMUNDO US (LOS ANGELES)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65884
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="582" group-title="Lista 05" ,TELEMUNDO US (MIAMI)
+#EXTINF:-1 tvg-id="582" group-title="Lista 05" ,TELEMUNDO US (MIAMI)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65883
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="583" group-title="Lista 05" ,TELEMUNDO US (NEW YORK)
+#EXTINF:-1 tvg-id="583" group-title="Lista 05" ,TELEMUNDO US (NEW YORK)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65882
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="584" group-title="Lista 05" ,TELEMUNDO US (PHILADELPHIA)
+#EXTINF:-1 tvg-id="584" group-title="Lista 05" ,TELEMUNDO US (PHILADELPHIA)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65881
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="585" group-title="Lista 05" ,TELEMUNDO US (SAN FRANCICO)
+#EXTINF:-1 tvg-id="585" group-title="Lista 05" ,TELEMUNDO US (SAN FRANCICO)
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65880
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="586" group-title="Lista 05" ,TELESUR HD
+#EXTINF:-1 tvg-id="586" group-title="Lista 05" ,TELESUR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66215
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="587" group-title="Lista 05" ,TELESUR HD
+#EXTINF:-1 tvg-id="587" group-title="Lista 05" ,TELESUR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68313
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="588" group-title="Lista 05" ,TL NOVELAS
+#EXTINF:-1 tvg-id="588" group-title="Lista 05" ,TL NOVELAS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65852
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="589" group-title="Lista 05" ,TNT 1
+#EXTINF:-1 tvg-id="589" group-title="Lista 05" ,TNT 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44003
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="590" group-title="Lista 05" ,TNT 2
+#EXTINF:-1 tvg-id="590" group-title="Lista 05" ,TNT 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44004
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="591" group-title="Lista 05" ,TNT AMERICALATINA HD
+#EXTINF:-1 tvg-id="591" group-title="Lista 05" ,TNT AMERICALATINA HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56336
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="592" group-title="Lista 05" ,TNT AMERICA LATINA
+#EXTINF:-1 tvg-id="592" group-title="Lista 05" ,TNT AMERICA LATINA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56335
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="593" group-title="Lista 05" ,TNT SD
+#EXTINF:-1 tvg-id="593" group-title="Lista 05" ,TNT SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68008
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="594" group-title="Lista 05" ,TNT SERIES HD
+#EXTINF:-1 tvg-id="594" group-title="Lista 05" ,TNT SERIES HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68212
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="595" group-title="Lista 05" ,TNT SERIES
+#EXTINF:-1 tvg-id="595" group-title="Lista 05" ,TNT SERIES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56233
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="596" group-title="Lista 05" ,TNT SPORTS HD
+#EXTINF:-1 tvg-id="596" group-title="Lista 05" ,TNT SPORTS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68302
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="597" group-title="Lista 05" ,TNT SPORTS
+#EXTINF:-1 tvg-id="597" group-title="Lista 05" ,TNT SPORTS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37250
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="598" group-title="Lista 05" ,TNT
+#EXTINF:-1 tvg-id="598" group-title="Lista 05" ,TNT
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66216
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="599" group-title="Lista 05" ,TOONCAST HD
+#EXTINF:-1 tvg-id="599" group-title="Lista 05" ,TOONCAST HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68326
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="600" group-title="Lista 05" ,TOONCAST
+#EXTINF:-1 tvg-id="600" group-title="Lista 05" ,TOONCAST
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56212
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="601" group-title="Lista 05" ,TOP LATINO
+#EXTINF:-1 tvg-id="601" group-title="Lista 05" ,TOP LATINO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44189
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="602" group-title="Lista 05" ,TOROS TV
+#EXTINF:-1 tvg-id="602" group-title="Lista 05" ,TOROS TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66217
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="603" group-title="Lista 05" ,TOROS
+#EXTINF:-1 tvg-id="603" group-title="Lista 05" ,TOROS
 http://91.126.141.13:1935/live/31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="604" group-title="Lista 05" ,TOROS
+#EXTINF:-1 tvg-id="604" group-title="Lista 05" ,TOROS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="605" group-title="Lista 05" ,TRECE TV HD
+#EXTINF:-1 tvg-id="605" group-title="Lista 05" ,TRECE TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66219
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="606" group-title="Lista 05" ,TRU TV HD
+#EXTINF:-1 tvg-id="606" group-title="Lista 05" ,TRU TV HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68213
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="607" group-title="Lista 05" ,TUDN USA OPCION 2
+#EXTINF:-1 tvg-id="607" group-title="Lista 05" ,TUDN USA OPCION 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65878
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="608" group-title="Lista 05" ,TUDN USA
+#EXTINF:-1 tvg-id="608" group-title="Lista 05" ,TUDN USA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?54580
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="609" group-title="Lista 05" ,TU INGLES TV
+#EXTINF:-1 tvg-id="609" group-title="Lista 05" ,TU INGLES TV
 http://91.126.141.13:1935/live/71/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="610" group-title="Lista 05" ,TV3 CATALUNYAHD
+#EXTINF:-1 tvg-id="610" group-title="Lista 05" ,TV3 CATALUNYAHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66220
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="611" group-title="Lista 05" ,TV3 HD
+#EXTINF:-1 tvg-id="611" group-title="Lista 05" ,TV3 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66221
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="612" group-title="Lista 05" ,TVE1 SD
+#EXTINF:-1 tvg-id="612" group-title="Lista 05" ,TVE1 SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68009
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="613" group-title="Lista 05" ,TVE HD
+#EXTINF:-1 tvg-id="613" group-title="Lista 05" ,TVE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68261
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="614" group-title="Lista 05" ,TVG EVENT 2 HD
+#EXTINF:-1 tvg-id="614" group-title="Lista 05" ,TVG EVENT 2 HD
 http://events2-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="615" group-title="Lista 05" ,TVG EVENT 3 HD
+#EXTINF:-1 tvg-id="615" group-title="Lista 05" ,TVG EVENT 3 HD
 http://events3-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="616" group-title="Lista 05" ,TVG INFANTIL
+#EXTINF:-1 tvg-id="616" group-title="Lista 05" ,TVG INFANTIL
 http://infantil-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="617" group-title="Lista 05" ,TVG MUSIGAL HD
+#EXTINF:-1 tvg-id="617" group-title="Lista 05" ,TVG MUSIGAL HD
 http://musigal-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="618" group-title="Lista 05" ,TYC SPORTS HD
+#EXTINF:-1 tvg-id="618" group-title="Lista 05" ,TYC SPORTS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68303
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="619" group-title="Lista 05" ,ULTRA FILM
+#EXTINF:-1 tvg-id="619" group-title="Lista 05" ,ULTRA FILM
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44039
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="620" group-title="Lista 05" ,ULTRA LUNA
+#EXTINF:-1 tvg-id="620" group-title="Lista 05" ,ULTRA LUNA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44041
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="621" group-title="Lista 05" ,ULTRA MACHO
+#EXTINF:-1 tvg-id="621" group-title="Lista 05" ,ULTRA MACHO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44042
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="622" group-title="Lista 05" ,ULTRA MEX
+#EXTINF:-1 tvg-id="622" group-title="Lista 05" ,ULTRA MEX
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44043
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="623" group-title="Lista 05" ,ULTRA TAINMENT
+#EXTINF:-1 tvg-id="623" group-title="Lista 05" ,ULTRA TAINMENT
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44044
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="624" group-title="Lista 05" ,UNICABLE
+#EXTINF:-1 tvg-id="624" group-title="Lista 05" ,UNICABLE
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65853
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="625" group-title="Lista 05" ,UNIMAS ESTE  US
+#EXTINF:-1 tvg-id="625" group-title="Lista 05" ,UNIMAS ESTE  US
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65854
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="626" group-title="Lista 05" ,UNIMAS US
+#EXTINF:-1 tvg-id="626" group-title="Lista 05" ,UNIMAS US
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65855
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="627" group-title="Lista 05" ,UNIVERSAL FULL HD
+#EXTINF:-1 tvg-id="627" group-title="Lista 05" ,UNIVERSAL FULL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?37243
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="628" group-title="Lista 05" ,UNIVERSO US
+#EXTINF:-1 tvg-id="628" group-title="Lista 05" ,UNIVERSO US
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56322
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="629" group-title="Lista 05" ,UNIVISION PUERTO RICO
+#EXTINF:-1 tvg-id="629" group-title="Lista 05" ,UNIVISION PUERTO RICO
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65870
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="630" group-title="Lista 05" ,UNIVISION US
+#EXTINF:-1 tvg-id="630" group-title="Lista 05" ,UNIVISION US
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65856
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="631" group-title="Lista 05" ,UNO
+#EXTINF:-1 tvg-id="631" group-title="Lista 05" ,UNO
 http://91.126.141.13:1935/live/41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="632" group-title="Lista 05" ,Uno
+#EXTINF:-1 tvg-id="632" group-title="Lista 05" ,Uno
 http://91.126.141.13:1935/live/41/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="633" group-title="Lista 05" ,VAMOS HD
+#EXTINF:-1 tvg-id="633" group-title="Lista 05" ,VAMOS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36381
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="634" group-title="Lista 05" ,VAMOS HD
+#EXTINF:-1 tvg-id="634" group-title="Lista 05" ,VAMOS HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66157
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="635" group-title="Lista 05" ,VH1 HD
+#EXTINF:-1 tvg-id="635" group-title="Lista 05" ,VH1 HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68288
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="636" group-title="Lista 05" ,VH1
+#EXTINF:-1 tvg-id="636" group-title="Lista 05" ,VH1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?44185
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="637" group-title="Lista 05" ,VIAJAR HD
+#EXTINF:-1 tvg-id="637" group-title="Lista 05" ,VIAJAR HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?66222
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="638" group-title="Lista 05" ,VIP ES: CAZAVISION
+#EXTINF:-1 tvg-id="638" group-title="Lista 05" ,VIP ES: CAZAVISION
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36521
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="639" group-title="Lista 05" ,VIP ES: DARK
+#EXTINF:-1 tvg-id="639" group-title="Lista 05" ,VIP ES: DARK
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36522
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="640" group-title="Lista 05" ,VIP ES: ESPORT3
+#EXTINF:-1 tvg-id="640" group-title="Lista 05" ,VIP ES: ESPORT3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36523
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="641" group-title="Lista 05" ,VIP ES: ETB 1HD
+#EXTINF:-1 tvg-id="641" group-title="Lista 05" ,VIP ES: ETB 1HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36524
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="642" group-title="Lista 05" ,VIP ES: ETB 2HD
+#EXTINF:-1 tvg-id="642" group-title="Lista 05" ,VIP ES: ETB 2HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36525
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="643" group-title="Lista 05" ,VIP ES: ETB 3
+#EXTINF:-1 tvg-id="643" group-title="Lista 05" ,VIP ES: ETB 3
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36526
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="644" group-title="Lista 05" ,VIP ES: ETB 4
+#EXTINF:-1 tvg-id="644" group-title="Lista 05" ,VIP ES: ETB 4
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36527
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="645" group-title="Lista 05" ,VIP ES: GOL HD
+#EXTINF:-1 tvg-id="645" group-title="Lista 05" ,VIP ES: GOL HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36528
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="646" group-title="Lista 05" ,VIP ES: M. CAMPEONES UHD 4K
+#EXTINF:-1 tvg-id="646" group-title="Lista 05" ,VIP ES: M. CAMPEONES UHD 4K
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36529
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="647" group-title="Lista 05" ,VIP ES: M. FORMULA 1 UHD 4K
+#EXTINF:-1 tvg-id="647" group-title="Lista 05" ,VIP ES: M. FORMULA 1 UHD 4K
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36530
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="648" group-title="Lista 05" ,VIP ES: M. LALIGA UHD 4K
+#EXTINF:-1 tvg-id="648" group-title="Lista 05" ,VIP ES: M. LALIGA UHD 4K
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36531
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="649" group-title="Lista 05" ,VIP ES: ODESIA FHD
+#EXTINF:-1 tvg-id="649" group-title="Lista 05" ,VIP ES: ODESIA FHD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36532
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="650" group-title="Lista 05" ,VIP ES: POPULAR TV
+#EXTINF:-1 tvg-id="650" group-title="Lista 05" ,VIP ES: POPULAR TV
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36533
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="651" group-title="Lista 05" ,VIP ES: SOL MUSICA
+#EXTINF:-1 tvg-id="651" group-title="Lista 05" ,VIP ES: SOL MUSICA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36534
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="652" group-title="Lista 05" ,VIP ES: SOMOS
+#EXTINF:-1 tvg-id="652" group-title="Lista 05" ,VIP ES: SOMOS
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36535
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="653" group-title="Lista 05" ,VIP ES: TELEDEPORTE HD
+#EXTINF:-1 tvg-id="653" group-title="Lista 05" ,VIP ES: TELEDEPORTE HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36536
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="654" group-title="Lista 05" ,VIP ES: TVM
+#EXTINF:-1 tvg-id="654" group-title="Lista 05" ,VIP ES: TVM
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36537
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="655" group-title="Lista 05" ,VIP ES: U-BEAT HD
+#EXTINF:-1 tvg-id="655" group-title="Lista 05" ,VIP ES: U-BEAT HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36538
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="656" group-title="Lista 05" ,VIP ES: XTRM HD
+#EXTINF:-1 tvg-id="656" group-title="Lista 05" ,VIP ES: XTRM HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?36539
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="657" group-title="Lista 05" ,VIP LAT: ESPN 2
+#EXTINF:-1 tvg-id="657" group-title="Lista 05" ,VIP LAT: ESPN 2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?53894
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="658" group-title="Lista 05" ,VIP LAT: ESPN DEPORTES
+#EXTINF:-1 tvg-id="658" group-title="Lista 05" ,VIP LAT: ESPN DEPORTES
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?53896
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="659" group-title="Lista 05" ,WAPA2
+#EXTINF:-1 tvg-id="659" group-title="Lista 05" ,WAPA2
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65873
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="660" group-title="Lista 05" ,WAPA AMERICA
+#EXTINF:-1 tvg-id="660" group-title="Lista 05" ,WAPA AMERICA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65871
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="661" group-title="Lista 05" ,WAPA
+#EXTINF:-1 tvg-id="661" group-title="Lista 05" ,WAPA
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65872
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="662" group-title="Lista 05" ,WARNER HD
+#EXTINF:-1 tvg-id="662" group-title="Lista 05" ,WARNER HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68214
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="663" group-title="Lista 05" ,WARNER
+#EXTINF:-1 tvg-id="663" group-title="Lista 05" ,WARNER
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?56234
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="664" group-title="Lista 05" ,WIPR CANAL 6
+#EXTINF:-1 tvg-id="664" group-title="Lista 05" ,WIPR CANAL 6
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?65874
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="665" group-title="Lista 05" ,WOBI HD
+#EXTINF:-1 tvg-id="665" group-title="Lista 05" ,WOBI HD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68282
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="666" group-title="Lista 05" ,XTRM SD
+#EXTINF:-1 tvg-id="666" group-title="Lista 05" ,XTRM SD
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?68010
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="667" group-title="Lista 05" ,ÑAN TV
+#EXTINF:-1 tvg-id="667" group-title="Lista 05" ,ÑAN TV
 http://91.126.141.13:1935/live/121/playlist.m3u8
 
 

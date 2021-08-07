@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 TecnoMasterApp
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="2" group-title="Lista 05" ,.OLíMPICOS 1
 http://m3ukodi.com/servicios/apk_player/apk_pato_tv.php?55147
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ynu1Hrr.png" tvg-id="3" group-title="Lista 05" ,.OLíMPICOS 2
